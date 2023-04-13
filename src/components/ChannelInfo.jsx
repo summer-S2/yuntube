@@ -14,7 +14,7 @@ export default function ChannelInfo({ id, name, type }) {
   );
   console.log(url);
   return (
-    <div className={`flex my-4 mb-8 items-center ${isHome && "mt-2"}`}>
+    <div className={`flex my-4 mb-4 items-center ${isHome && "mt-2"}`}>
       {url && (
         <img
           className="shrink w-10 h-10 rounded-full cursor-pointer"

@@ -2,7 +2,7 @@ import React from "react";
 import { useYouTubeApi } from "../context/YoutubeApiContext";
 import { useQuery } from "@tanstack/react-query";
 import Spinner from "./Spinner";
-import VideoCard from "./VideoCard";
+import VideoDetailCard from "./VideoDetailCard";
 
 export default function RelatedVideos({ id }) {
   const { yuntube } = useYouTubeApi();
@@ -20,7 +20,7 @@ export default function RelatedVideos({ id }) {
       {videos && (
         <ul className="">
           {videos.map((video) => (
-            <VideoCard key={video.id} video={video} type="list" />
+            <VideoDetailCard key={video.id} video={video} />
           ))}
         </ul>
       )}

@@ -13,14 +13,9 @@ export default function VideoCard({ video, type }) {
   const isList = type === "list";
   // console.log(isList);
   return (
-    <li
-      className={`mx-10 md:mx-0 ${isList ? "flex gap-1 m-2" : ""}`}
-      onClick={handleClick}
-    >
+    <li className={`mx-4 md:mx-0`} onClick={handleClick}>
       <img
-        className={`cursor-pointer rounded-2xl ${
-          isList ? "w-60 mr-2" : "w-full"
-        }`}
+        className="cursor-pointer rounded-2xl w-full"
         src={thumbnails.medium.url}
         alt={title}
       />
@@ -29,7 +24,7 @@ export default function VideoCard({ video, type }) {
           <ChannelInfo id={channelId} name={channelTitle} type="home" />
         </div>
         <div className="flex flex-col ml-3">
-          <p className="font-semibold my-2 line-clamp-2 cursor-pointer">
+          <p className="font-semibold my-2 line-clamp-2 cursor-pointer overflow-hidden">
             {title}
           </p>
           <p className=" opacity-80 font-light cursor-pointer">

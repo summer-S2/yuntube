@@ -11,12 +11,14 @@ function App() {
     <>
       <SearchHeader />
 
-      <YoutubeApiProvider>
-        <QueryClientProvider client={queryClient}>
-          <ScrollRestoration />
-          <Outlet />
-        </QueryClientProvider>
-      </YoutubeApiProvider>
+      <div className="mt-[62px]">
+        <YoutubeApiProvider>
+          <QueryClientProvider client={queryClient}>
+            <ScrollRestoration />
+            <Outlet />
+          </QueryClientProvider>
+        </YoutubeApiProvider>
+      </div>
     </>
   );
 }
