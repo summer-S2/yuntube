@@ -1,0 +1,1106 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "mT8f3YjulH_kyDXTsIM5pad2-vA",
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 65,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EBRlGzpkIJtTFS_YEcVeQ3DCtkA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FcCcR-MB1fU"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-07T19:18:39Z",
+        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
+        "title": "T1 Faker Mid Rumble Melting KR SoloQ - Best of LoL Stream Highlights (Translated)",
+        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FcCcR-MB1fU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FcCcR-MB1fU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FcCcR-MB1fU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FcCcR-MB1fU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FcCcR-MB1fU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Today on the Korean Server",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-07T19:18:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZiPzqcDjwW4NS_Ca-GMJAnZFRtw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rlws63qHopw"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-29T03:17:07Z",
+        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
+        "title": "T1 Gumayusi Popping Off With Draven Vs HLE Viper! - Best of LoL Stream Highlights (Translated)",
+        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rlws63qHopw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rlws63qHopw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rlws63qHopw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rlws63qHopw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rlws63qHopw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Today on the Korean Server",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-29T03:17:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "edKnaoZylY3BAr_QbtsrNsjLw3U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u1lGvcQnbX8"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-30T15:51:31Z",
+        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
+        "title": "This is Korean Gold Mechanics! - Best of LoL Stream Highlights (Translated)",
+        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u1lGvcQnbX8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u1lGvcQnbX8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u1lGvcQnbX8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u1lGvcQnbX8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u1lGvcQnbX8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Today on the Korean Server",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-30T15:51:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hZJ3YS7tKR3WMLdqRn9KD7qtq7I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QRQpvCjio6g"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-31T19:26:18Z",
+        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
+        "title": "T1 Playing ARAM All Together! - Zeus | Oner | Faker | Gumayusi | Keria",
+        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QRQpvCjio6g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QRQpvCjio6g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QRQpvCjio6g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QRQpvCjio6g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QRQpvCjio6g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Today on the Korean Server",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-31T19:26:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0piWpjGK4N5PirZp9G-jKTtKtA4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Kw2-zR8q9vM"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-17T19:18:51Z",
+        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
+        "title": "T1 Gumayusi + 200 Years = Pentakill - Best of LoL Stream Highlights (Translated)",
+        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kw2-zR8q9vM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kw2-zR8q9vM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kw2-zR8q9vM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kw2-zR8q9vM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Kw2-zR8q9vM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Today on the Korean Server",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-17T19:18:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5TGE0CMM7rYo7e0TKBhIUBl-EFo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7zUuInlBPoE"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-03T19:37:46Z",
+        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
+        "title": "PZ ZZANG VS FAKER...'s Turret - Best of LoL Stream Highlights (Translated)",
+        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7zUuInlBPoE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7zUuInlBPoE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7zUuInlBPoE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7zUuInlBPoE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7zUuInlBPoE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Today on the Korean Server",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-03T19:37:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y7hsIWbzEQG5C62QraGqONEjdYs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2241x5jk5D8"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-04T20:15:36Z",
+        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
+        "title": "The Classic Korean Challenger Level 1 All Out - Best of LoL Stream Highlights (Translated)",
+        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2241x5jk5D8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2241x5jk5D8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2241x5jk5D8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2241x5jk5D8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2241x5jk5D8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Today on the Korean Server",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-04T20:15:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LCFd9b1p5guu8PFnTtP3scwdIgg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HToXhDqUvhE"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-06T17:58:23Z",
+        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
+        "title": "How Many Hats Do You Want? Yes - Best of LoL Stream Highlights (Translated)",
+        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HToXhDqUvhE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HToXhDqUvhE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HToXhDqUvhE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HToXhDqUvhE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HToXhDqUvhE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Today on the Korean Server",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-06T17:58:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-X60LBF8VycIp_UeSyU7GvL2Rb0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pGda4TC7L88"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-24T19:55:47Z",
+        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
+        "title": "T1 Gumayusi Stops Baron 1v5 Into Pentakill - Best of LoL Stream Highlights (Translated)",
+        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pGda4TC7L88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pGda4TC7L88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pGda4TC7L88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pGda4TC7L88/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pGda4TC7L88/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Today on the Korean Server",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-24T19:55:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AMO4SVKQbXgqeZBNehzNm8-xUsw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bcqHhhMf4fo"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-18T17:54:26Z",
+        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
+        "title": "TIL Renata Glasc Ult Works on Minions! - Best of LoL Stream Highlights (Translated)",
+        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bcqHhhMf4fo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bcqHhhMf4fo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bcqHhhMf4fo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bcqHhhMf4fo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bcqHhhMf4fo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Today on the Korean Server",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-18T17:54:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dDrqPGwpaC8MCOlfzuFiU8pNJrE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lmERLRJySG4"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-27T18:26:01Z",
+        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
+        "title": "T1 Faker Practicing Mid Tristana For LCK Playoffs! - Best of LoL Stream Highlights (Translated)",
+        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lmERLRJySG4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lmERLRJySG4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lmERLRJySG4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lmERLRJySG4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lmERLRJySG4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Today on the Korean Server",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-27T18:26:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "drT43e6hPm85k-uhqrV-dehLsz8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cjNDoVGGJi4"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-25T11:33:21Z",
+        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
+        "title": "The Most HYPE Telecom War in History! - T1 vs KT - LCK Spring 2023 Playoffs Highlights",
+        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cjNDoVGGJi4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cjNDoVGGJi4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cjNDoVGGJi4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cjNDoVGGJi4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cjNDoVGGJi4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Today on the Korean Server",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-25T11:33:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3fU0QLOB-byyEjHSc5jUcpHypR4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K6ukmeipeV8"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-01T10:55:27Z",
+        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
+        "title": "2.5 Hours of PEAK League of Legends - T1 vs GEN G - LCK Spring 2023 Playoffs Highlights",
+        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K6ukmeipeV8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K6ukmeipeV8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K6ukmeipeV8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K6ukmeipeV8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K6ukmeipeV8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Today on the Korean Server",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-01T10:55:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bhmurtnzorW8tvkAEcuqBcgmyT0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7Qg-qQIbhGQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-20T06:08:52Z",
+        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
+        "title": "Faker 10 Years Debut Anniversary! - T1 vs NS  - LCK Spring 2023",
+        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Qg-qQIbhGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Qg-qQIbhGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Qg-qQIbhGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7Qg-qQIbhGQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7Qg-qQIbhGQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Today on the Korean Server",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-20T06:08:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XJh4qNzLtBC9qw9tU844rXN9VQA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E-INv6m6UXE"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-09T20:41:32Z",
+        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
+        "title": "The Most Watched LCK Final EVER! - T1 vs GEN G - LCK Spring 2023 Finals Highlights",
+        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E-INv6m6UXE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E-INv6m6UXE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E-INv6m6UXE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E-INv6m6UXE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E-INv6m6UXE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Today on the Korean Server",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-09T20:41:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qOghwQF1nlYHPTYWW4_wBwFos8c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xNmr7N61bJc"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-23T20:55:13Z",
+        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
+        "title": "Sick Series! - DK vs HLE  - LCK Spring 2023 Playoffs Highlights",
+        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xNmr7N61bJc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xNmr7N61bJc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xNmr7N61bJc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xNmr7N61bJc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xNmr7N61bJc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Today on the Korean Server",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-23T20:55:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IaffgqTbf4fTlPYoNS4GRVDADlc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K7qg5sRzdwg"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-21T20:23:40Z",
+        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
+        "title": "T1 Faker's Yone vs Chovy's Aurelion Sol! - T1 Faker KR Solo Q Highlights",
+        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K7qg5sRzdwg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K7qg5sRzdwg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K7qg5sRzdwg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K7qg5sRzdwg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K7qg5sRzdwg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Today on the Korean Server",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-21T20:23:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WJFs-2QCp9mJHNrQhaxZVYv8Q9s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m8AhzGfyuXA"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-12T05:41:43Z",
+        "channelId": "UCfJ9Iwih_Il_lxb_uIOh6zw",
+        "title": "PTSD 오게 만드는 천상계 역대급 킬각 | 롤읽남 롤 매드무비",
+        "description": "이게 폭딜이지\n캬\n\n본 채널의 모든 영상은 직접 관전을 통해 녹화하고 있으며 모든 플레이 영상의 저작권은 라이엇 게임즈에 있으나 이를 녹화, 편집하여 유튜브에 업로드 하는 것은 약관에 따라 공식적으로 2차 저작물로 인정되어 저작권법의 보호를 받습니다.\n따라서 허가없이 본 채널의 영상을 불법 복제하여 재편집 하는 등의 행위는 절대 금지합니다.\n\nAll videos on this channel are recorded in spectator mode, and the copyright to all gameplay recordings is reserved to Riot Games®. However, according to the Terms of Service, recording and editing of gameplay are officially accepted as derivative work and thereby protected by copyright.\nTherefore, please refrain from any action in violation of copyright such as illegally downloading and re-editing the video to be distributed without permission.\n\n#롤​ #리그오브레전드​ #매드무비\n\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n▶▶▶▶▶▶▶ 트랙 리스트 ◀◀◀◀◀◀◀\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nTrack: Koven x ROY KNOX - About Me [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch: https://www.youtube.com/watch?v=t2Ti8d992RM\nFree Download / Stream: http://ncs.io/AboutMe\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nTrack: Unknown Brain - Say Goodbye (ft. Marvin Divine) [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch: https://www.youtube.com/watch?v=rdD-DMTWqU4\nFree Download / Stream: http://ncs.io/SayGoodbye\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nTrack:  3rd Prototype - After the Storm [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch: https://www.youtube.com/watch?v=s-ZUU_cE_AQ\nFree Download / Stream: http://ncs.io/AftertheStorm\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nTrack: Slashtaq & Wanden - Full Speed Ahead [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch: https://www.youtube.com/watch?v=USBIGzkFI-Q\nFree Download / Stream: https://ncs.io/FullSpeedAhead\n\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n▶▶ 제보 - lolnamsubmit@naver.com ◀◀\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n- 슈퍼플레이 (다이아몬드 이상)\n- 웃긴 장면 (티어 제한 없음)\n\n하이라이트 부분을 녹화해서 보내주세요\n녹화 프로그램 자유, 핸드폰으로 촬영해서 보내주셔도 됩니다\n매드무비 채택 여부는 따로 알려드리지 않으니 업로드 영상을 참고해주세요!\n\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n▶▶ Send me your clip - Email : lolnamsubmit@naver.com ◀◀\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n- Outplay (Diamond, Master, Grandmaster, Challenger, Pro player)\n- Funny Moment (Iron, Bronze, Silver)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m8AhzGfyuXA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m8AhzGfyuXA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m8AhzGfyuXA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m8AhzGfyuXA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m8AhzGfyuXA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤읽남 LOLNAM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-12T05:41:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WVbkWSQEqV7vyQFK6j4PI0m2Vag",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eDoEl3mpq1o"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-08T12:58:03Z",
+        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
+        "title": "And The Team That Will Face T1 in the Finals Is...- GEN vs KT - LCK Spring 2023 Playoffs Highlights",
+        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eDoEl3mpq1o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eDoEl3mpq1o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eDoEl3mpq1o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eDoEl3mpq1o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eDoEl3mpq1o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Today on the Korean Server",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-08T12:58:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9Ft6D54xThccj7OJdH5fhl8IoJ4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "skK90sSt7hk"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-22T22:17:30Z",
+        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
+        "title": "\"3234\" - Ambition Clips",
+        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/skK90sSt7hk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/skK90sSt7hk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/skK90sSt7hk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/skK90sSt7hk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/skK90sSt7hk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Today on the Korean Server",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-22T22:17:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oevNBbj1Gs6PIBbBwZz8-VMB_OA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OS2z1Rwo5Po"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-11T21:02:33Z",
+        "channelId": "UCCgDLmcdCZVDduZUZ-9W04A",
+        "title": "How this 2/0/7 Lux Support has Full Build at 22 Minutes!",
+        "description": "If you have encountered a bug and you want me to make a video about it, send me an email to Hunefer@googlemail.com or join my Discord: https://discord.gg/eYr6cxCcgK\n\nSong title: [ To Battle! ]\nArtists: [ Riot Games ]\nCourtesy of Riot Games [https://www.leagueoflegends.com/en-au/news/community/riot-music-creator-safe-guidelines/]\n\nI post short versions of my videos on TikTok and Instagram:\nhttps://www.tiktok.com/@hextechlab\nhttps://www.instagram.com/hextechlab/?hl=en\n\nI appreciate every thumbs up and would love it if you’d consider subscribing to the channel!\nhttps://www.youtube.com/channel/UCCgDLmcdCZVDduZUZ-9W04A?sub_confirmation=1 \n\nThank you so much for visiting \n\n********************\n Welcome to the Hextech Lab!\n\nIf you’re interested in learning about strategies, tactics, or glitches in League of Legends, you’re in the right place! \nHere I document bugs in the game. Some of them are useful, some aren’t. Either way, you can learn about them here! I also test out new champions and experiment with interactions between characters and their abilities.\n \nIf you have a question about any of the videos or want to see an experiment covered, leave a comment! I regularly test out interesting League of Legends questions and upload the results.\n\nNew videos every week!\n \nSubscribe and hit the bell so that you’re always notified when a new video comes out! \n\n********************\n\n#HextechLab #LeagueOfLegends",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OS2z1Rwo5Po/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OS2z1Rwo5Po/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OS2z1Rwo5Po/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OS2z1Rwo5Po/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Hextech Lab",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-11T21:02:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ksDoE2PAZ0s7iPyAUPGVjIEJjQ0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ylbvIh8HGYo"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-09T07:29:13Z",
+        "channelId": "UCsY94ljKzTlXNueC2m3hf-A",
+        "title": "The Power Of Triple Econ Augments (ft. Urgot 3)",
+        "description": "The Power Of Triple Econ Augments (ft. Urgot 3)\n\n00:00 - Patch 13.7\n02:19 - Augment 1 | Time and a Half (Sivir Augment) Gold Farmed: 40+\n08:59 - Augment 2 | Lategame Specialist\n14:51 - Augment 3 | Level Up!\n\nVOD link:\nhttps://youtu.be/2k6hVXaDJ94?t=33900\n\nYouTube Business Contact: BoxBoxYTBiz@gmail.com\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCsY94ljKzTlXNueC2m3hf-A/join\n\nBOXBOX SOCIAL MEDIA:\n📺Twitch: http://www.twitch.tv/boxbox\n💎2nd YouTube Channel: https://www.youtube.com/c/BoxBoxBox\n🩳 YouTube Shorts: https://www.youtube.com/c/@BoxBoxClips\n📼VODs Channel: https://www.youtube.com/@BoxBoxVoD\n🥶Facebook: https://www.facebook.com/LoLBoxbox\n🐤Twitter: https://twitter.com/BoxBox\n📷Instagram: https://instagram.com/NotBoxBox\n🎵TikTok: https://tiktok.com/@boxbox\n🤖Discord: https://discord.gg/eeHvGNMzB6\n\n📹EDITOR:\nhttps://twitter.com/ShenobiPh\n\n🎨THUMBNAIL ARTIST:\nhttps://twitter.com/PUFFB0X\n\n🧙‍♂️Channel Manager:\nhttps://twitter.com/timkiro\n\n🎼MUSIC:\nGrandia 3 Music Boss Battle V1 (A Hot Crash)\nPink Ball Activate! (Kirby Planet Robobot) - Super Smash Bros. Ultimate Soundtrack\nTitle Theme (Animal Crossing) [New Remix] - Super Smash Bros. Ultimate Soundtrack\nPopcorn Castle\nPopskyy & tiasu - Duel\nSunset Heights Super Smash Bros. Ultimate\nMidnight Maximum Tune 6 - New Generation\nBurning Away - Wangan Midnight Maximum Tune 6 OST\n\nOutro: Nightcore - Hold my wings\n\n#BoxBox #TFT #TeamfightTactics",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ylbvIh8HGYo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ylbvIh8HGYo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ylbvIh8HGYo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ylbvIh8HGYo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ylbvIh8HGYo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BoxBox",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-09T07:29:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0FJ9ptRUc9e3Bhsn55DhWLydPXQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nkh9VGCY8as"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-12T01:37:35Z",
+        "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "title": "I’m Dreading this Review – RTX 4070",
+        "description": "Save 15% with code LinusTechTips at http://vessi.com/LinusTechTips\n\nCheck out VideoCom for free at https://lmg.gg/VideoCom and use code LINUS for 50% off any paid subscription!\n\nNvidia's RTX 4070 is a complicated card.. on one hand it is the best value we've seen in years, but on the other everyone is still mad.\n\nDiscuss on the forum: https://linustechtips.com/topic/1500288-i%E2%80%99m-dreading-this-review-%E2%80%93-rtx-4070/\n\n► GET MERCH: https://lttstore.com\n► LTX 2023 TICKETS AVAILABLE NOW: https://lmg.gg/ltx23\n► GET EXCLUSIVE CONTENT ON FLOATPLANE: https://lmg.gg/lttfloatplane\n► SPONSORS, AFFILIATES, AND PARTNERS: https://lmg.gg/partners\n► OUR WAN PODCAST GEAR: https://lmg.gg/wanset\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTikTok: https://www.tiktok.com/@linustech\nTwitch: https://www.twitch.tv/linustech\n\nMUSIC CREDIT\n---------------------------------------------------\nIntro: Laszlo - Supernova\nVideo Link: https://www.youtube.com/watch?v=PKfxmFU3lWY\niTunes Download Link: https://itunes.apple.com/us/album/supernova/id936805712\nArtist Link: https://soundcloud.com/laszlomusic\n\nOutro: Approaching Nirvana - Sugar High\nVideo Link: https://www.youtube.com/watch?v=ngsGBSCDwcI\nListen on Spotify: http://spoti.fi/UxWkUw\nArtist Link: http://www.youtube.com/approachingnirvana\n\nIntro animation by MBarek Abdelwassaa https://www.instagram.com/mbarek_abdel/\nMonitor And Keyboard by vadimmihalkevich / CC BY 4.0  https://geni.us/PgGWp\nMechanical RGB Keyboard by BigBrotherECE / CC BY 4.0 https://geni.us/mj6pHk4\nMouse Gamer free Model By Oscar Creativo / CC BY 4.0 https://geni.us/Ps3XfE\n\nCHAPTERS\n---------------------------------------------------\n0:00 - Intro\n0:48 - VideoCom!\n1:00 - Specs\n2:00 - Gaming Performance\n4:00 - Productivity\n5:53 - So why aren't we stoked?\n6:44 - Efficency, Overclocking\n8:18 - DLSS3\n9:57 - Non-gaming Nice Things\n10:46 - Vessi!\n11:30 - Outro",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nkh9VGCY8as/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nkh9VGCY8as/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nkh9VGCY8as/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nkh9VGCY8as/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nkh9VGCY8as/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Linus Tech Tips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-12T01:37:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "41uw_c8LIGit3tJ6i1WK_L3sVzc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qzIfQ5_gYzc"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-12T12:52:33Z",
+        "channelId": "UCMUnInmOkrWN4gof9KlhNmQ",
+        "title": "真正的人生攻略，這一期也許你會看了又看 | 老高與小茉 Mr & Mrs Gao",
+        "description": "【加入會員按鈕】https://www.youtube.com/channel/UCMUnInmOkrWN4gof9KlhNmQ/join\n【訂閱頻道按鈕】https://goo.gl/VhzZeS\n------------------------------------------------\n相關鏈接：\n\n超出你想象的深海世界\nhttps://www.youtube.com/watch?v=dNmwPWRdv_0\n\n【神作】四十分鐘講完三體\nhttps://www.youtube.com/watch?v=2vowHo2y-hI\n\n目前第二長的一期，多重人格分裂\nhttps://www.youtube.com/watch?v=QAGDGja7kbs\n\n人為什麼是人，人類最不可思議的六個特征\nhttps://www.youtube.com/watch?v=EiWuajug1W4\n\n【震撼】這是一部解開所有宇宙之謎的影片\nhttps://www.youtube.com/watch?v=3QS5hyXpNyw\n\n【震撼】這是一部你明天還會再看一遍的影片\nhttps://www.youtube.com/watch?v=odc0ajxCq2c\n\n南極和北極，地球上最不可思議的兩個地方\nhttps://www.youtube.com/watch?v=jSSIeOlIqu0\n\n千萬不要去！世界十大人類禁地\nhttps://www.youtube.com/watch?v=6SwJpgNLvTk\n\n目前信息量最大的一期，重力\nhttps://www.youtube.com/watch?v=-TDVKQjmf7c\n\n人類的隱藏能力，從氣功到超能力還有另一個世界的存在\nhttps://www.youtube.com/watch?v=3Okf8nOIVLY\n\n超出你想象的地球故事\nhttps://www.youtube.com/watch?v=5AseSLCG7wI\n\n目前最長的一期，只有五歲抬頭才能看懂的天能（信条）\nhttps://www.youtube.com/watch?v=UiyWuEwxCNQ\n\n【震撼】2045年，人類究竟是滅絕還是成神\nhttps://www.youtube.com/watch?v=WY4XLDBDyuk\n\n【震撼】智商200也無法解答，宇宙最大的謎團，時間\nhttps://www.youtube.com/watch?v=6SkbNlWMG5w\n\n現代技術也無法再現的七個奇跡\nhttps://www.youtube.com/watch?v=KtDGWBqCmtk\n\n【震撼】海奧華預言，人類起源，耶穌是誰，金字塔之謎，你想知道的答案這裡都有\nhttps://www.youtube.com/watch?v=1rUWY2z4wUk\n\n【神作】三十六分鐘完全解説這部完美閉合的漫畫\nhttps://www.youtube.com/watch?v=ZN4yFKJuS4Y\n\n前往地球中心的旅行，超出你想象的地下世界\nhttps://www.youtube.com/watch?v=lRVSC97q8ew\n\n人類不能再次登上月球的真正原因真是難以置信\nhttps://www.youtube.com/watch?v=2vzwtqhhJv8\n\n“他們”究竟是誰？比金字塔還誇張的遠古文明\nhttps://www.youtube.com/watch?v=vA7IJRaW0Eo\n\n最神奇的星球，地球以及人類存在的真正原因\nhttps://www.youtube.com/watch?v=BLpv9fCZqcs\n\n神作！星際效應，用最簡單的方式告訴你什麽是五維時空\nhttps://www.youtube.com/watch?v=KefYmjM0E7g\n\n天堂的證明，一個你這輩子都看不到的世界\nhttps://www.youtube.com/watch?v=L8SZQPyB1c8\n\n人類不能知道的秘密，人族的故事\nhttps://www.youtube.com/watch?v=JVOzntXOGRc\n\n可怕的巨大史前生物，我們該慶幸它們已經滅絕了\nhttps://www.youtube.com/watch?v=BXybSLUlFvM\n\n人類消失一萬年後，一切都不見了，只有“它”還在\nhttps://www.youtube.com/watch?v=EW77R_D-XCw\n\n目前介紹過的最厲害的一位，此人兩歲就能抬頭\nhttps://www.youtube.com/watch?v=t_WGhKQ7xqI\n\n一萬年後的世界不會比現在更先進的真正原因\nhttps://www.youtube.com/watch?v=sWY1PtudTEA\n\n目前最搞笑的一期，我們本來都是神但由於選擇了美貌而變成了人\nhttps://www.youtube.com/watch?v=p25SV0WQWjA\n\n宇宙有多大，人類最遠可以到達宇宙的什麽地方\nhttps://www.youtube.com/watch?v=gH_NIUqOJos\n\n它的下面埋藏著關於世界末日的重要信息\nhttps://www.youtube.com/watch?v=Q0pSMTLXvjo\n\n目前最細思極恐的一期，二十五號宇宙\nhttps://www.youtube.com/watch?v=htz2xCJb3Lc\n\n【雖然被警告不要說】但是我還是決定公開這一期\nhttps://www.youtube.com/watch?v=QMsbQ97Ah_M\n\n人類的極限，壽命的極限是多少，可以多久不吃飯不睡覺\nhttps://www.youtube.com/watch?v=VCIHVq2GISw\n\n驚人證據揭示地下世界的存在，他們究竟是誰\nhttps://www.youtube.com/watch?v=0AuaFv9pUYE\n\n突然消失的百慕大三角\nhttps://www.youtube.com/watch?v=kb3ZMhR66fY\n\n【震撼】看完這期你就無敵了，史上最強戰術，不戰而勝的奧義，孫子兵法\nhttps://www.youtube.com/watch?v=4CvVL-rSX8E\n\n1萬2千年前的這個裝置究竟是用來做什麼的\nhttps://www.youtube.com/watch?v=NFH7IErIm3k\n\n【月球第三部】人類無法再次登月的另一種可能\nhttps://www.youtube.com/watch?v=Udvl_VJoM94\n\n【震撼】亞特蘭蒂斯真的找到了，神，真的存在過\nhttps://www.youtube.com/watch?v=QbcKVbL3VOQ\n\n【摩羯座的人注意了】神就來自你們的守護星\nhttps://www.youtube.com/watch?v=EkELAx2Uk1w\n\n過去可以被改變的真正原因，被討厭的勇氣\nhttps://www.youtube.com/watch?v=5cZxZCbcOQw\n\n【目前最長影片】人類不能知道的，完全另一個版本的世界的真相\nhttps://www.youtube.com/watch?v=A7h2clFxyj0\n\n【震撼】進化，從1859到2020\nhttps://www.youtube.com/watch?v=yNFgOL-7nOw\n\n地球上最常見卻最神奇的東西，水\nhttps://www.youtube.com/watch?v=7q88m5MQRhE\n\n超越認知的印度\nhttps://www.youtube.com/watch?v=0cXTyTmDRUI\n\n【完美犯罪】又一個超超超高智商的男人\nhttps://www.youtube.com/watch?v=SSzJdSsLneI\n\n地球上智商最高的九種動物，第一名就快變成人了\nhttps://www.youtube.com/watch?v=mjk1Huc_FoY\n\n碰到就玩完了，世界上最可怕的十大海洋生物\nhttps://www.youtube.com/watch?v=ZYjCi4rpAiQ\n\n雪山上發生的最不可思議的事\nhttps://www.youtube.com/watch?v=8Y-l9WaOd_w\n\n【射手座的人注意了】你們的守護星太危險，風速每秒三百公里，木星\nhttps://www.youtube.com/watch?v=dr9ISxjOO00\n\n【講到流淚】二十分鐘講完第一次世界大戰\nhttps://www.youtube.com/watch?v=G5y85I52HRg\n\n你所不了解的天空的世界\nhttps://www.youtube.com/watch?v=x1QyVwFRrIg\n\n【震撼】地球歷史的最大謎團，大洪水\nhttps://www.youtube.com/watch?v=w69h0zCso-o\n\nKFK預言，目前爲止最可信的一個未來人\nhttps://www.youtube.com/watch?v=ZTxc1YY64cM\n\n【震撼】諾亞方舟，不是神話而是預言，漢字中隱藏的秘密\nhttps://www.youtube.com/watch?v=czNMh9kVhIE\n\n【不好意思，今天的標題可能嚇到各位，但我必須說】我們之間其實沒有任何關係\nhttps://www.youtube.com/watch?v=nhnrfTb8xzA\n\n人類瘟疫史，存活下來的唯一方法\nhttps://www.youtube.com/watch?v=K4t6nF8dDHQ\n\n世界是虛擬的但有一個東西是真實的\nhttps://www.youtube.com/watch?v=B-I2guiXzRA\n\n【費米悖論】人類至今無法發現外星人的14種可能，越往後可能性越大\nhttps://www.youtube.com/watch?v=N4xXGIrzKJs\n\n【震撼】一切都不是巧合，2020真正的預言\nhttps://www.youtube.com/watch?v=wGaTEf0e67U\n\n【震撼】史上最深奧的話題，意識\nhttps://www.youtube.com/watch?v=wraBVnAfunc\n\n不可思议的前世記憶，可能你也有\nhttps://www.youtube.com/watch?v=v3kfH0a_dDY\n\n病毒，進化\nhttps://www.youtube.com/watch?v=_oBVDBVTKbU\n\n目前最快的影片，速度的世界\nhttps://www.youtube.com/watch?v=yf7S1s37des\n\n怕海的人不要看，真實的美人魚\nhttps://www.youtube.com/watch?v=3cHZfgSqPa4\n\n七個可能毀滅世界的科學實驗，其中三個還在進行中\nhttps://www.youtube.com/watch?v=ElqnKNkiyHA\n\n你的生日數字相加等於幾？如果等於369，那你註定不平凡啊\nhttps://www.youtube.com/watch?v=KQv0lEaDGco\n\n看得見摸得著卻無法解釋，世界上最大的謎團，第一集\nhttps://www.youtube.com/watch?v=Ttus8XGK6Xw\n\n十年內將會消失的職業，你如果正在做這些工作最好盡快轉行\nhttps://www.youtube.com/watch?v=Mshz9DxQLbE\n\n世界上最貴的東西\nhttps://www.youtube.com/watch?v=2FLYgFa2ZyI\n\n------------------------------------------------\n推薦播放列表：\n\n【未來】https://goo.gl/Bq54h5\n\n【傳說】https://goo.gl/CpmK2Y\n\n【心理測試】https://goo.gl/wf5dp5\n\n【奇趣】https://goo.gl/Tbpiuj",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qzIfQ5_gYzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qzIfQ5_gYzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qzIfQ5_gYzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qzIfQ5_gYzc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qzIfQ5_gYzc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "老高與小茉 Mr & Mrs Gao",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-12T12:52:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Px8J1mM4cntdZ4u2RlOeSQmSm4E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k4tmKcoCFlM"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-12T04:45:03Z",
+        "channelId": "UC8YW6FO4bJzh8IKJl3PtZqw",
+        "title": "DỊ NHÂN THEBAUSFFS VÀ LỐI CHƠI IRELIA FULL AP FEED TO WIN ĐI TOP GÂY SÁT THƯƠNG SIÊU ẢO",
+        "description": "DỊ NHÂN THEBAUSFFS VÀ LỐI CHƠI IRELIA FULL AP FEED TO WIN ĐI TOP GÂY SÁT THƯƠNG SIÊU ẢO\n\nChúc các bạn xem vui vẻ\n► Lịch Live:\n*22:30-23:30 hàng ngày trên Youtube\n*23:30-02:00 hàng ngày tại: https://gglive.vn/live/van-tung/204575\n__________________________________________________________________\n►Gia nhập Hạm đội Toxic tại: https://www.facebook.com/groups/thuyentruongvantung\n►Facebook cá nhân: https://www.facebook.com/le.vantung.777\n►Fanpage: https://www.facebook.com/BLVVanTung.Box\n►Hãy like và subscribe (ấn chuông theo dõi) để nhận thông báo mỗi khi có video mới của Văn Tùng nhé!! https://bit.ly/2LuLBJH\n\n➥ Box Studio \n» Liên hệ công việc: booking@box.studio\n» Web: https://www.box.studio/\n» Hotline: 0962012219",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k4tmKcoCFlM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k4tmKcoCFlM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k4tmKcoCFlM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k4tmKcoCFlM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k4tmKcoCFlM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Văn Tùng",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-12T04:45:03Z"
+      }
+    }
+  ]
+}

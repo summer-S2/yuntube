@@ -1,0 +1,43 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "-mrQ4u2aKXWDfBczVnKdCdP8wsU",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "Wvbhn_FF4Dr2WgDsXxRortJhbuI",
+      "id": "UCpJw2H9KKqwCCGQKRh1Bf2w",
+      "snippet": {
+        "title": "T1 Faker",
+        "description": "Welcome to Faker's official YouTube channel. In this channel, you can find the best League of Legends plays of Faker and Faker's journey throughout LCK, Worlds and MSI as a player in T1. Please subscribe and support Faker!  \n\n페이커의 공식 유튜브 채널입니다. 페이커의 플레이 하이라이트와 비하인드 콘텐츠가 매주 업로드됩니다. 구독과 좋아요로 페이커 선수를 응원해주세요.",
+        "customUrl": "@t1_faker",
+        "publishedAt": "2017-02-09T04:13:19Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/6PB4rOTiWoP2XrvsJbeMSFmj6K5XTO9iZVonJ2p3fFOwRKSJml2peFkGnpJGuLOnvy-sThV1aQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/6PB4rOTiWoP2XrvsJbeMSFmj6K5XTO9iZVonJ2p3fFOwRKSJml2peFkGnpJGuLOnvy-sThV1aQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/6PB4rOTiWoP2XrvsJbeMSFmj6K5XTO9iZVonJ2p3fFOwRKSJml2peFkGnpJGuLOnvy-sThV1aQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "T1 Faker",
+          "description": "Welcome to Faker's official YouTube channel. In this channel, you can find the best League of Legends plays of Faker and Faker's journey throughout LCK, Worlds and MSI as a player in T1. Please subscribe and support Faker!  \n\n페이커의 공식 유튜브 채널입니다. 페이커의 플레이 하이라이트와 비하인드 콘텐츠가 매주 업로드됩니다. 구독과 좋아요로 페이커 선수를 응원해주세요."
+        },
+        "country": "KR"
+      }
+    }
+  ]
+}
