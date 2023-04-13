@@ -1,30 +1,44 @@
 import React from "react";
 import { formatAgo } from "../util/date";
 import { useNavigate } from "react-router-dom";
+import ChannelInfo from "./ChannelInfo";
 
 export default function VideoCard({ video, type }) {
   const navigate = useNavigate();
-  const { title, thumbnails, channelTitle, publishedAt } = video.snippet;
+  const { title, thumbnails, channelTitle, publishedAt, channelId } =
+    video.snippet;
   const handleClick = () => {
     navigate(`/videos/watch/${video.id}`, { state: { video } });
   };
   const isList = type === "list";
   // console.log(isList);
   return (
-    <li className={isList ? "flex gap-1 m-2" : ""} onClick={handleClick}>
+    <li
+      className={`mx-10 md:mx-0 ${isList ? "flex gap-1 m-2" : ""}`}
+      onClick={handleClick}
+    >
       <img
-        className={isList ? "w-60 mr-2" : "w-full cursor-pointer"}
+        className={`cursor-pointer rounded-2xl ${
+          isList ? "w-60 mr-2" : "w-full"
+        }`}
         src={thumbnails.medium.url}
         alt={title}
       />
-      <div>
-        <p className="font-semibold my-2 line-clamp-2 cursor-pointer">
-          {title}
-        </p>
-        <p className="text-sm opacity-80 cursor-pointer">{channelTitle}</p>
-        <p className="text-sm opacity-80 cursor-pointer">
-          {formatAgo(publishedAt, "ko")}
-        </p>
+      <div className="flex">
+        <div className={`shrink-0 ${isList && "hidden"}`}>
+          <ChannelInfo id={channelId} name={channelTitle} type="home" />
+        </div>
+        <div className="flex flex-col ml-3">
+          <p className="font-semibold my-2 line-clamp-2 cursor-pointer">
+            {title}
+          </p>
+          <p className=" opacity-80 font-light cursor-pointer">
+            {channelTitle}
+          </p>
+          <p className="text-sm opacity-80 font-light cursor-pointer">
+            {formatAgo(publishedAt, "ko")}
+          </p>
+        </div>
       </div>
     </li>
   );

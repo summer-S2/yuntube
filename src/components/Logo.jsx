@@ -5,9 +5,9 @@ export default function Logo() {
   return (
     <Link to="/" className="flex items-center">
       <svg
-        className="mx-4"
-        width={50}
-        height={50}
+        className="mx-2"
+        width={30}
+        height={30}
         x="0px"
         y="0px"
         viewBox="0 0 158 110"
@@ -21,7 +21,7 @@ c6.8-1.8,13.1-7.3,14.9-14c3.3-12.1,3.3-37.5,3.3-37.5S157.7,29.7,154.4,17.5z"
         />
         <polygon fill="#fff" points="63.9,79.2 103.2,55 63.9,30.8 " />
       </svg>
-      <h1 className="font-bold text-3xl">Yuntube</h1>
+      <h1 className="font-semibold text-xl tracking-tight">Yuntube</h1>
     </Link>
   );
 }

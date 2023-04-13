@@ -17,7 +17,7 @@ export default function Videos() {
   });
 
   // console.log(keyword);
-  // console.log(videos);
+  console.log(videos);
   // console.log(error);
 
   return (
@@ -25,7 +25,7 @@ export default function Videos() {
       {isLoading && <Spinner />}
       {error && <p>에러가 발생했습니다 ..</p>}
       {videos && (
-        <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-4">
+        <ul className="pt-4 grid grid-cols-1 md:grid-cols-2 md:px-4 lg:grid-cols-3 lg:px-8 xl:grid-cols-4 gap-4">
           {videos.map((video) => (
             <VideoCard key={video.id} video={video} />
           ))}

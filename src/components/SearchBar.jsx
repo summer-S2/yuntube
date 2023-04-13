@@ -21,13 +21,13 @@ export default function SearchBar() {
   return (
     <form className="w-full flex justify-center" onSubmit={handleSubmit}>
       <input
-        className="w-7/12 px-4 outline-none bg-black text-gray-300 border-2 border-[#222] rounded-l-full"
+        className="w-7/12 px-4 outline-none bg-black text-base text-gray-300 border-[1px] border-[#222] border-r-0 rounded-l-full"
         type="text"
         value={text}
         onChange={(e) => setText(e.target.value)}
-        placeholder="검색어를 입력해주세요."
+        placeholder="검색"
       />
-      <button className="px-4 bg-[#222] rounded-r-full">
+      <button className="px-4 border-[1px] border-[#222] border-l-0 rounded-r-full">
         <BsSearch />
       </button>
     </form>
