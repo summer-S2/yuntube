@@ -1,311 +1,215 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "6uq5EIPIRflAIoD3ZLaJX_vW0PA",
-  "nextPageToken": "CBkQAA",
+  "etag": "PFc3kia4dhukoCsgWeB6uZlYsyA",
+  "nextPageToken": "CDIQAA",
   "regionCode": "KR",
   "pageInfo": {
     "totalResults": 1000000,
-    "resultsPerPage": 25
+    "resultsPerPage": 50
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "NI3EY78QTDL6iW0wEJqPKo7kxPc",
-      "id": {
-        "kind": "youtube#channel",
-        "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w"
-      },
-      "snippet": {
-        "publishedAt": "2017-02-09T04:13:19Z",
-        "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
-        "title": "T1 Faker",
-        "description": "Welcome to Faker's official YouTube channel. In this channel, you can find the best League of Legends plays of Faker and Faker's ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://yt3.ggpht.com/6PB4rOTiWoP2XrvsJbeMSFmj6K5XTO9iZVonJ2p3fFOwRKSJml2peFkGnpJGuLOnvy-sThV1aQ=s88-c-k-c0xffffffff-no-rj-mo"
-          },
-          "medium": {
-            "url": "https://yt3.ggpht.com/6PB4rOTiWoP2XrvsJbeMSFmj6K5XTO9iZVonJ2p3fFOwRKSJml2peFkGnpJGuLOnvy-sThV1aQ=s240-c-k-c0xffffffff-no-rj-mo"
-          },
-          "high": {
-            "url": "https://yt3.ggpht.com/6PB4rOTiWoP2XrvsJbeMSFmj6K5XTO9iZVonJ2p3fFOwRKSJml2peFkGnpJGuLOnvy-sThV1aQ=s800-c-k-c0xffffffff-no-rj-mo"
-          }
-        },
-        "channelTitle": "T1 Faker",
-        "liveBroadcastContent": "upcoming",
-        "publishTime": "2017-02-09T04:13:19Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "LpyJrx6CJkQlbFOzC7lWIUwMC1M",
+      "etag": "iHaAvhROD7_JHpMpLOHeAgN2DU8",
       "id": {
         "kind": "youtube#video",
-        "videoId": "qzygi5Tb348"
+        "videoId": "jGJ1KWlxqiw"
       },
       "snippet": {
-        "publishedAt": "2023-04-12T07:02:38Z",
-        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
-        "title": "T1 Faker And T1 Oner Go Head-to-Head- Best of LoL Stream Highlights (Translated)",
-        "description": "Links~~ Discord - https://discord.gg/DrdbjxJ Twitch - https://www.twitch.tv/prohudlive Facebook ...",
+        "publishedAt": "2023-04-24T13:55:28Z",
+        "channelId": "UCugNO83_V7xZLzCsjpABGeg",
+        "title": "페이커 르블랑과 맞라인전에 벽 제대로 느끼는 백크...",
+        "description": "재밌게 시청해주세요! 모든 문의사항은 bkh173999@gmail.com outro: ryyzn - not important.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/qzygi5Tb348/default.jpg",
+            "url": "https://i.ytimg.com/vi/jGJ1KWlxqiw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/qzygi5Tb348/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/jGJ1KWlxqiw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/qzygi5Tb348/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/jGJ1KWlxqiw/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Today on the Korean Server",
+        "channelTitle": "백크 Baekk",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-12T07:02:38Z"
+        "publishTime": "2023-04-24T13:55:28Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "eU8GR4UQulWefFdHA4nyn27LTZk",
+      "etag": "1lPeAAtI5n2HDuqNqnVPTI6OYyY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "lsp3PtHe0aU"
+        "videoId": "GPyfxIHOn3s"
       },
       "snippet": {
-        "publishedAt": "2023-04-05T09:00:34Z",
+        "publishedAt": "2023-04-23T05:00:08Z",
         "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
-        "title": "주문하신 페블랑 보여드리겠습니다. [Faker Stream Highlight]",
+        "title": "게임 내내 상대방이 걱정되는 페이커의 미드 베이가 [Faker Stream Highlight]",
         "description": "페이커 방송국 바로가기 https://bj.afreecatv.com/leesh2148 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/lsp3PtHe0aU/default.jpg",
+            "url": "https://i.ytimg.com/vi/GPyfxIHOn3s/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/lsp3PtHe0aU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GPyfxIHOn3s/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/lsp3PtHe0aU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GPyfxIHOn3s/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "T1 Faker",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-05T09:00:34Z"
+        "publishTime": "2023-04-23T05:00:08Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "4cU3qKdMgxdtVjZy0d-5aqCdxtY",
+      "etag": "TdkRCbcO3UV2hWtXLBdwDZc-99I",
       "id": {
         "kind": "youtube#video",
-        "videoId": "W4hflwpj5UE"
+        "videoId": "w5MMuNsdpLg"
       },
       "snippet": {
-        "publishedAt": "2023-04-02T03:00:21Z",
+        "publishedAt": "2023-04-25T02:50:00Z",
         "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
-        "title": "수상할 정도로 점프를 잘하는 미드라이너 [Faker Stream Highlight]",
+        "title": "페이커의 루틴 | Presented by SteelSeries",
+        "description": "아래 링크에서 12% 할인된 가격으로 Nova Pro Wireless 헤드셋을 만나보세요! SteelSeries Official Site ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w5MMuNsdpLg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w5MMuNsdpLg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w5MMuNsdpLg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "T1 Faker",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-25T02:50:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8wvxLK_hSLH_GXjAD9xuWWBjwGE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I-XKTrym5DY"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-18T09:00:09Z",
+        "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
+        "title": "페 건들지마! 손 모가지 날아가붕게 [Faker Stream Highlight]",
         "description": "페이커 방송국 바로가기 https://bj.afreecatv.com/leesh2148 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/W4hflwpj5UE/default.jpg",
+            "url": "https://i.ytimg.com/vi/I-XKTrym5DY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/W4hflwpj5UE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/I-XKTrym5DY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/W4hflwpj5UE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/I-XKTrym5DY/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "T1 Faker",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-02T03:00:21Z"
+        "publishTime": "2023-04-18T09:00:09Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "vAJMIZ4tc_TPwZZkwfGYWvD3ebE",
+      "etag": "Vj_eChxSOWqqlRM17oopdC7-ThQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "bPWGG922hmY"
+        "videoId": "7eRAFz8H0zw"
       },
       "snippet": {
-        "publishedAt": "2023-03-26T03:00:26Z",
+        "publishedAt": "2023-04-15T04:00:04Z",
         "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
-        "title": "🚨속보🚨운석 협곡 충돌 3초전..! 페이커의 아우렐리온 솔! [Faker Stream Highlight]",
+        "title": "오늘은 스킨 끼는 날(?) 페이커의 정글 비에고! [Faker Stream Highlight]",
         "description": "페이커 방송국 바로가기 https://bj.afreecatv.com/leesh2148 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/bPWGG922hmY/default.jpg",
+            "url": "https://i.ytimg.com/vi/7eRAFz8H0zw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/bPWGG922hmY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/7eRAFz8H0zw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/bPWGG922hmY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/7eRAFz8H0zw/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "T1 Faker",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-03-26T03:00:26Z"
+        "publishTime": "2023-04-15T04:00:04Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "DeqOE-nIiAQctiCKI0lRcnnzqIk",
+      "etag": "A5d8hGtgohERA8jG1mYXqCw2_t4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "vRjFHbnIf1w"
+        "videoId": "aDYD3267-5M"
       },
       "snippet": {
-        "publishedAt": "2023-03-29T09:00:38Z",
-        "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
-        "title": "게임을 시작하지 [Faker Stream Highlight]",
-        "description": "페이커 방송국 바로가기 https://bj.afreecatv.com/leesh2148 ...",
+        "publishedAt": "2022-07-27T03:58:12Z",
+        "channelId": "UCGt6h41qCj0i4WR6cYFYrvA",
+        "title": "페이커 국제 대회 BEST 10 명장면",
+        "description": "faker #t1 #명장면 안녕하세요. 롤교육매드무비입니다. 제 채널에 와주셔서 정말 감사합니다 :) 영상이 재밌으면 좋아요 !! 아쉬웠으면 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/vRjFHbnIf1w/default.jpg",
+            "url": "https://i.ytimg.com/vi/aDYD3267-5M/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/vRjFHbnIf1w/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aDYD3267-5M/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/vRjFHbnIf1w/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aDYD3267-5M/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "T1 Faker",
+        "channelTitle": "롤사건탐정매누이",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-03-29T09:00:38Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "6hzh-kVINrbkAl6FOVX_DrFbL-A",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "BS33_DvNtyE"
-      },
-      "snippet": {
-        "publishedAt": "2023-04-06T01:00:03Z",
-        "channelId": "UCJprx3bX49vNl6Bcw01Cwfg",
-        "title": "당신과 함께할 수 있어 영광입니다 [Faker 10th Anniversary]",
-        "description": "시즌 중 촬영을 피하기 위하여, 페이커 선수가 출연하는 10주년 기념 기획 영상은 비시즌에 촬영 하여 5월 중 업로드 될 예정입니다.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/BS33_DvNtyE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/BS33_DvNtyE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/BS33_DvNtyE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "T1",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-04-06T01:00:03Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "UtFRqIrJ1QtYZnluEKL9MxlkHHI",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "t5Xyaj_AgFg"
-      },
-      "snippet": {
-        "publishedAt": "2023-03-23T09:00:38Z",
-        "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
-        "title": "나는 때려도 되지만 너는 안 돼 ㅎㅎ [Faker Stream Highlight]",
-        "description": "페이커 방송국 바로가기 https://bj.afreecatv.com/leesh2148 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/t5Xyaj_AgFg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/t5Xyaj_AgFg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/t5Xyaj_AgFg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "T1 Faker",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-03-23T09:00:38Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "LMxRX-Cp1tdZxMvbFWQRsch_HUw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "97LL8fMc-YI"
-      },
-      "snippet": {
-        "publishedAt": "2022-09-24T18:01:30Z",
-        "channelId": "UCkwj-qESH2-wWPYaWixEzdQ",
-        "title": "Top 20 Faker Plays | League of Legends",
-        "description": "Top 20 Faker Plays - League of Legends #faker #montage #leagueoflegends ❱ Lee \"Faker\" Sang-hyeok (Hangul: 이상혁) is a ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/97LL8fMc-YI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/97LL8fMc-YI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/97LL8fMc-YI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "GWP",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-09-24T18:01:30Z"
+        "publishTime": "2022-07-27T03:58:12Z"
       }
     },
     {
@@ -344,172 +248,308 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "gi05KyM0qmoCsmOj3WohIuMMnyk",
+      "etag": "0tjtcMAo0vBw22z-VlBdPeqIFLc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "SFNzxuMfCqU"
+        "videoId": "gVBsgpSRQ38"
       },
       "snippet": {
-        "publishedAt": "2023-04-11T17:48:02Z",
-        "channelId": "UC8g5sJFyraYb4Xl_lRHW-Jg",
-        "title": "T1 vs GENG : GRANDE FINALE GAME 3, FAKER EST UN DIEU ??!",
-        "description": "REDUC -33% en ce moment sur TOUT Displate ici ➡️ http://bit.ly/2KjzL8U Enfin Mon TIKTOK, Go FOLLOW, contenu exclu ...",
+        "publishedAt": "2023-01-19T13:31:00Z",
+        "channelId": "UCugNO83_V7xZLzCsjpABGeg",
+        "title": "캐리 해준다 하고 미드 뺏었는데... 어 페이커...?",
+        "description": "재밌게 시청해주세요! 모든 문의사항은 bkh173999@gmail.com outro: ryyzn - not important.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/SFNzxuMfCqU/default.jpg",
+            "url": "https://i.ytimg.com/vi/gVBsgpSRQ38/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/SFNzxuMfCqU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gVBsgpSRQ38/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/SFNzxuMfCqU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gVBsgpSRQ38/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Skyyart",
+        "channelTitle": "백크 Baekk",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-11T17:48:02Z"
+        "publishTime": "2023-01-19T13:31:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "qG6X10mEwzPnS5i8v5h90J0gh9c",
+      "etag": "MHzcAAue0nEJJO3f5AC0l8dI6rQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "l0rjB1lehco"
+        "videoId": "mG9sdoJ42tM"
       },
       "snippet": {
-        "publishedAt": "2023-03-16T07:00:17Z",
-        "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
-        "title": "보면 볼수록 「중독」되는 페이커의 카시오페아!🐍 [Faker Stream Highlight]",
-        "description": "페이커 방송국 바로가기 https://bj.afreecatv.com/leesh2148 ...",
+        "publishedAt": "2023-03-26T02:53:53Z",
+        "channelId": "UCGt6h41qCj0i4WR6cYFYrvA",
+        "title": "위기의 순간 T1을 구해내는 다전제의 신, 페이커 그라가스 명경기 사건",
+        "description": "LCK 공식 파트너 크리에이터 안녕하세요. 롤교육매드무비입니다. 제 채널에 와주셔서 정말 감사합니다 :) 라이엇과 라이엇 코리아에게 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/l0rjB1lehco/default.jpg",
+            "url": "https://i.ytimg.com/vi/mG9sdoJ42tM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/l0rjB1lehco/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mG9sdoJ42tM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/l0rjB1lehco/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mG9sdoJ42tM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "롤사건탐정매누이",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-26T02:53:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NjMqnh5lnHFZ-KYr9qOrOY4zMus",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nT3xU4J9iRE"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-05T11:00:24Z",
+        "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+        "title": "[#MENia] e스포츠로 왕좌에 앉은 남자 페이커 이상혁! 최다 우승 기록 보유자의 솔직 토크 | #유퀴즈온더블럭 #Diggle",
+        "description": "남자들의 가슴을 뛰게 할 #MENia #유퀴즈온더블럭 #Diggle #디글 Let's giggle, :Diggle! 구독하기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nT3xU4J9iRE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nT3xU4J9iRE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nT3xU4J9iRE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN D ENT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-05T11:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eU8GR4UQulWefFdHA4nyn27LTZk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lsp3PtHe0aU"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-05T09:00:34Z",
+        "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
+        "title": "주문하신 페블랑 보여드리겠습니다. [Faker Stream Highlight]",
+        "description": "페이커 방송국 바로가기 https://bj.afreecatv.com/leesh2148 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lsp3PtHe0aU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lsp3PtHe0aU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lsp3PtHe0aU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "T1 Faker",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-03-16T07:00:17Z"
+        "publishTime": "2023-04-05T09:00:34Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "flyHCguWRgyH6E4zj-8M4XHJfQw",
+      "etag": "I4vQRouVmfTyWiQ29AR2hemgIM4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Wo-neGxxyvc"
+        "videoId": "M_vg12_QXrg"
       },
       "snippet": {
-        "publishedAt": "2023-03-19T04:00:12Z",
-        "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
-        "title": "10년 전통의 원조 리신 맛집 [Faker Stream Highlight]",
-        "description": "페이커 방송국 바로가기 https://bj.afreecatv.com/leesh2148 ...",
+        "publishedAt": "2021-08-09T23:04:34Z",
+        "channelId": "UCGt6h41qCj0i4WR6cYFYrvA",
+        "title": "유럽 관중들을 감동시켰던 전설의 페이커 야스오 1대4 경기",
+        "description": "faker #t1 #yasuo 안녕하세요. 롤교육매드무비입니다. 제 채널에 와주셔서 정말 감사합니다 :) 영상이 재밌으면 좋아요 !! 아쉬웠으면 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Wo-neGxxyvc/default.jpg",
+            "url": "https://i.ytimg.com/vi/M_vg12_QXrg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Wo-neGxxyvc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/M_vg12_QXrg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Wo-neGxxyvc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/M_vg12_QXrg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "T1 Faker",
+        "channelTitle": "롤사건탐정매누이",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-03-19T04:00:12Z"
+        "publishTime": "2021-08-09T23:04:34Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "GT5RCc6lyvdZgt4ikO6EotWoN1k",
+      "etag": "MNzv3CcVu7gRhECA9uP1TqqVdqk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "wU-1ZaT0hIg"
+        "videoId": "kmeEYzfEEt4"
       },
       "snippet": {
-        "publishedAt": "2023-04-07T15:10:30Z",
-        "channelId": "UCvqRdlKsE5Q8mf8YXbdIJLw",
-        "title": "Faker: A Decade of Greatness",
-        "description": "Join us in celebrating a decade of the legendary demon king, Faker! With three World Championship titles under his belt, he has ...",
+        "publishedAt": "2023-02-16T14:02:46Z",
+        "channelId": "UCugNO83_V7xZLzCsjpABGeg",
+        "title": "같은 팀 페이커한테 킬 몰아주면 생기는 일 ㅋㅋㅋ",
+        "description": "재밌게 시청해주세요! 모든 문의사항은 bkh173999@gmail.com outro: ryyzn - not important.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/wU-1ZaT0hIg/default.jpg",
+            "url": "https://i.ytimg.com/vi/kmeEYzfEEt4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/wU-1ZaT0hIg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kmeEYzfEEt4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/wU-1ZaT0hIg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kmeEYzfEEt4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "LoL Esports",
+        "channelTitle": "백크 Baekk",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-07T15:10:30Z"
+        "publishTime": "2023-02-16T14:02:46Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "kKlvrs0GAJZi0jHHjPoPl07Z8P4",
+      "etag": "_6jFpwipbhSLUdOZzKKyPFxuxRA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Mbm__qA-9hQ"
+        "videoId": "O_6_KF1eWWU"
       },
       "snippet": {
-        "publishedAt": "2023-03-13T09:00:13Z",
-        "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
-        "title": "쿵쿵아 가자! 페이커 정글 사일러스 [Faker Stream Highlight]",
-        "description": "페이커 방송국 바로가기 https://bj.afreecatv.com/leesh2148 ...",
+        "publishedAt": "2023-04-06T00:00:07Z",
+        "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+        "title": "10년의 위대함, 페이커",
+        "description": "LCK #WeMakeLegends ✓ LIVE & LIVE VOD - LoL e스포츠 홈페이지: https://lolesports.com/ - 네이버: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Mbm__qA-9hQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/O_6_KF1eWWU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Mbm__qA-9hQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/O_6_KF1eWWU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Mbm__qA-9hQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/O_6_KF1eWWU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "T1 Faker",
+        "channelTitle": "LCK",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-03-13T09:00:13Z"
+        "publishTime": "2023-04-06T00:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NgwkYJRhjXIHEloTYO4cEkeLDcU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2K_195JlfcA"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-20T16:35:18Z",
+        "channelId": "UCBdrG9f4bIt4RYJOMGhmCCA",
+        "title": "프로도 벽느꼈던 페이커 전성기시절 개인방송 미친순간들 모음",
+        "description": "리그오브레전드 #페이커 #t1 #하이라이트 페이커 개인방송 전성기시절 미친 순간들모음 @SKTT1 @T1_Faker.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2K_195JlfcA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2K_195JlfcA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2K_195JlfcA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Gystic youtube",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-20T16:35:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I1d4kr_Vs2dnF7I_1N2GvdIRx2A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EzD38JUlnMo"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-19T06:57:36Z",
+        "channelId": "UCDrNurYNB2bPbcmqelt0otg",
+        "title": "페이커가 &quot;난이도&quot;를 올렸을 때 잡을 수 있는 방법 #shorts",
+        "description": "페커숏 #페이커 #shorts #Faker.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EzD38JUlnMo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EzD38JUlnMo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EzD38JUlnMo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "페커숏",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-19T06:57:36Z"
       }
     },
     {
@@ -548,274 +588,580 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "0Gsliov6EmvmCr_wBxTZknbvKuM",
+      "etag": "4cU3qKdMgxdtVjZy0d-5aqCdxtY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "5zmF8rNDzIs"
+        "videoId": "W4hflwpj5UE"
       },
       "snippet": {
-        "publishedAt": "2023-04-11T22:00:03Z",
-        "channelId": "UCAp79BzIna5qJzL4EB1NmfQ",
-        "title": "FAKER IS SO CLEAN WITH AHRI! - T1 Faker Plays Ahri MID vs Yone! | Season 2023",
-        "description": "T1 Faker Plays Ahri vs Yone MID in Challenger Elo Korea Season 2023 Patch 13.7 , T1 Faker Ahri MID Gameplay. -Subscribe to ...",
+        "publishedAt": "2023-04-02T03:00:21Z",
+        "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
+        "title": "수상할 정도로 점프를 잘하는 미드라이너 [Faker Stream Highlight]",
+        "description": "페이커 방송국 바로가기 https://bj.afreecatv.com/leesh2148 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/5zmF8rNDzIs/default.jpg",
+            "url": "https://i.ytimg.com/vi/W4hflwpj5UE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/5zmF8rNDzIs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/W4hflwpj5UE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/5zmF8rNDzIs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/W4hflwpj5UE/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Be Challenger LoL",
+        "channelTitle": "T1 Faker",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-11T22:00:03Z"
+        "publishTime": "2023-04-02T03:00:21Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "dYHt2Z4e827HaxO04T7MeKN0bgE",
+      "etag": "Xg706LULeUf5HObjg0WN-xkqCMI",
       "id": {
         "kind": "youtube#video",
-        "videoId": "16yENY8YgO4"
+        "videoId": "nhKMdUGqCtM"
       },
       "snippet": {
-        "publishedAt": "2023-04-06T18:00:00Z",
-        "channelId": "UCJouTgWU7M8rO_svsIfSf9w",
-        "title": "FAKER IS A GOD WITH YONE! | T1 Faker Plays Yone Mid vs Akali!  Season 2023",
-        "description": "T1 Faker Plays Yone vs Akali Mid in Challenger Elo Korea Season 2023 Patch 13.7, T1 Faker Yone Mid Gameplay. -Subscribe to ...",
+        "publishedAt": "2023-04-13T01:00:17Z",
+        "channelId": "UC05hnXU790Y_FMIx00m93gQ",
+        "title": "&quot;T1 Faker&quot; - T1 페이커 2023 LCK 스프링 하이라이트 명장면 매드무비 [T1 Faker 2023 LCK Spring Hightlight Montage]",
+        "description": "롤 #매드무비 #롤매드무비 #리그오브레전드 항상 꾸준하게 영상 업로드 하려고 노력하고 있습니다! 영상이 마음에 드셨다면 구독과 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/16yENY8YgO4/default.jpg",
+            "url": "https://i.ytimg.com/vi/nhKMdUGqCtM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/16yENY8YgO4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/nhKMdUGqCtM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/16yENY8YgO4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/nhKMdUGqCtM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Be Challenger",
+        "channelTitle": "다딱이",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-06T18:00:00Z"
+        "publishTime": "2023-04-13T01:00:17Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "TJbQKU9QXXT5vM4GTNyz5BLbtlY",
+      "etag": "b4jXe6NfwDDNl8Ocn0alSJtJ6uA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "MzuZWxll42Y"
+        "videoId": "kKRD53eKgZg"
       },
       "snippet": {
-        "publishedAt": "2023-04-08T03:00:17Z",
-        "channelId": "UCc-l_DvrZujzCWaX-Ai7U4g",
-        "title": "&quot;결승전 D-1&quot; 고전파 모드 ON 페이커 4월 롤 매드무비 [T1 Faker Montage]",
-        "description": "본 채널의 모든 영상은 직접 관전을 통해 녹화하고 있습니다. 모든 플레이 영상의 1차 저작권은 라이엇 게임즈에 있으며 이를 재 편집, ...",
+        "publishedAt": "2023-04-06T11:47:38Z",
+        "channelId": "UC_RS3_EJoracWzakPd0GMGQ",
+        "title": "다시 보는 페이커 역대 최고의 장면들",
+        "description": "리그오브레전드 #lol #페이커 ----------------------- 페이커 2013~2023 하이라이트 ----------------------- Track: JJD - Can't Say No [NCS ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/MzuZWxll42Y/default.jpg",
+            "url": "https://i.ytimg.com/vi/kKRD53eKgZg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/MzuZWxll42Y/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kKRD53eKgZg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/MzuZWxll42Y/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kKRD53eKgZg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "PD LoL",
+        "channelTitle": "롤카",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-08T03:00:17Z"
+        "publishTime": "2023-04-06T11:47:38Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "_k8PMYzX9xR9wNLiwRGS5LHWEbQ",
+      "etag": "GXJyMHZiI04AoOvIuyjtYc0QKRI",
       "id": {
         "kind": "youtube#video",
-        "videoId": "S_MkOTP--5Y"
+        "videoId": "BanIUDdSK3M"
       },
       "snippet": {
-        "publishedAt": "2023-01-31T08:00:14Z",
-        "channelId": "UCJprx3bX49vNl6Bcw01Cwfg",
-        "title": "TEAM FAKER! 이분들 밴픽 얘기만 합니다 | 2023 SEASON KICKOFF",
-        "description": "TEAM FAKER로 구성된 멤버들의 호흡은 어땠을까? 이벤트 매치에도 진심으로 임하는 선수들의 라커룸 분위기와 인 게임 상황 속 ...",
+        "publishedAt": "2023-03-28T08:33:22Z",
+        "channelId": "UCGt6h41qCj0i4WR6cYFYrvA",
+        "title": "페이커 전설의 미드 크산테 사건",
+        "description": "LCK 공식 파트너 크리에이터 안녕하세요. 롤교육매드무비입니다. 제 채널에 와주셔서 정말 감사합니다 :) 라이엇과 라이엇 코리아에게 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/S_MkOTP--5Y/default.jpg",
+            "url": "https://i.ytimg.com/vi/BanIUDdSK3M/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/S_MkOTP--5Y/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/BanIUDdSK3M/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/S_MkOTP--5Y/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/BanIUDdSK3M/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "T1",
+        "channelTitle": "롤사건탐정매누이",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-01-31T08:00:14Z"
+        "publishTime": "2023-03-28T08:33:22Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Nb5cHYoZ4yBI0UvSiRLk2A5pbQk",
+      "etag": "a61seUREDqgfoTOkdTiO8BRNWeA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "f7mgm_sRdaA"
+        "videoId": "V684w9h7OZ4"
       },
       "snippet": {
-        "publishedAt": "2012-06-19T23:04:22Z",
-        "channelId": "UCwVXB9hCnLiarr3pZLmnr2w",
-        "title": "Elissa - Faker (Audio) / إليسا - فاكر",
-        "description": "Elissa - Faker (Audio) / إليسا - فاكر Subscribe The official channel https://bit.ly/31AhzNl Having started off her creative career in ...",
+        "publishedAt": "2023-03-24T10:25:57Z",
+        "channelId": "UC9fHRV-_twWRErovdzJ6FdA",
+        "title": "T1 페이커님한테 양학 당하는 상대방 시점",
+        "description": "방송 주소 : https://www.twitch.tv/tncks5800 구독과 좋아요 부탁드립니다! #신드라장인 #페이커 #t1 #페이커 미드크산테 #T1 KT.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/f7mgm_sRdaA/default.jpg",
+            "url": "https://i.ytimg.com/vi/V684w9h7OZ4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/f7mgm_sRdaA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/V684w9h7OZ4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/f7mgm_sRdaA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/V684w9h7OZ4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Elissa",
+        "channelTitle": "수라차",
         "liveBroadcastContent": "none",
-        "publishTime": "2012-06-19T23:04:22Z"
+        "publishTime": "2023-03-24T10:25:57Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "KeEu4RUQj3n68u-EQQw-AZj2byQ",
+      "etag": "cN95VOwVaXQZcsrLENU_MbcS1yg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "7K09Ev8LKJk"
+        "videoId": "beyqBM5HJ0g"
       },
       "snippet": {
-        "publishedAt": "2021-09-02T17:12:26Z",
-        "channelId": "UCYOHRSKf4T6Q-MFISwPbgGg",
-        "title": "Top 3 Faker Plays EVER! #Shorts",
-        "description": "Faker is League of Legends' best ever player. And the T1 midlane legend has pulled out some stunning plays, from breaking ...",
+        "publishedAt": "2021-03-15T11:00:11Z",
+        "channelId": "UC1cWTErb7vw_UmmuB0dYgsQ",
+        "title": "【분량체크】 키스💋썰 포함 19금🔥 토크 시작되자 페절부절( ˃᷄˶˶̫˶˂᷅ )하며 물 폭풍 드링킹하는 페이커 | 라디오스타 | TVPP | MBC 200101 방송",
+        "description": "이 영상은 편집본입니다* 라디오스타 650회 - [올해도 잘 될 거야 아마두!]특집 (김희철.페이커.김소현.정샘물) #페이커 #라디오스타 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/7K09Ev8LKJk/default.jpg",
+            "url": "https://i.ytimg.com/vi/beyqBM5HJ0g/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/7K09Ev8LKJk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/beyqBM5HJ0g/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/7K09Ev8LKJk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/beyqBM5HJ0g/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "DEXERTO League of Legends",
+        "channelTitle": "TV-People",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-09-02T17:12:26Z"
+        "publishTime": "2021-03-15T11:00:11Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "h2Fj2aHmaNK_Vs-2GEGmT6qZm08",
+      "etag": "QKSBx3KI4qigpqKsaUn85pk8_wU",
       "id": {
         "kind": "youtube#video",
-        "videoId": "2VNh75r5Mgg"
+        "videoId": "_PHmFxfIrhQ"
       },
       "snippet": {
-        "publishedAt": "2023-03-25T23:26:04Z",
-        "channelId": "UCU9Vd2lRheyB374OjW7iVJg",
-        "title": "Faker Is Just That Good",
-        "description": "lolclips #caedrel Open Me Main Youtube: https://www.youtube.com/c/Caedrel/videos Follow Me: ...",
+        "publishedAt": "2022-11-14T05:23:31Z",
+        "channelId": "UCGt6h41qCj0i4WR6cYFYrvA",
+        "title": "페이커 22월즈 명장면 모음",
+        "description": "LCK 공식 파트너 크리에이터 안녕하세요. 롤교육매드무비입니다. 제 채널에 와주셔서 정말 감사합니다 :) 라이엇과 라이엇 코리아에게 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/2VNh75r5Mgg/default.jpg",
+            "url": "https://i.ytimg.com/vi/_PHmFxfIrhQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/2VNh75r5Mgg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_PHmFxfIrhQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/2VNh75r5Mgg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_PHmFxfIrhQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Caedrel Clips",
+        "channelTitle": "롤사건탐정매누이",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-03-25T23:26:04Z"
+        "publishTime": "2022-11-14T05:23:31Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "t4AvpQ-YT8nYrbnx_0XV-ysJq3s",
+      "etag": "kPvTw66quNffFVA8aspgv7Qyj9Q",
       "id": {
         "kind": "youtube#video",
-        "videoId": "yKhDFOCyyDk"
+        "videoId": "ZbY838Pac7Y"
       },
       "snippet": {
-        "publishedAt": "2022-11-03T05:11:10Z",
-        "channelId": "UCf__4UJGgJx4d_ILguzYDjw",
-        "title": "[Compilation] Casters &amp; Streamers&#39; reactions to Faker&#39;s unreal sidestep | Worlds 2022 | T1 vs RNG",
-        "description": "from LoL Esports: https://www.youtube.com/c/lolesports FOLLOW US FOR MORE LOL PRECIOUS MOMENTS! ------- Our channel ...",
+        "publishedAt": "2023-01-25T07:33:35Z",
+        "channelId": "UCHBzepJnvhFXCQDT4B181hg",
+        "title": "페이커 : 99.9% 확률로 헬퍼,  하이브리드 : 저 실력이면 연봉 100억이다",
+        "description": "프로들의 눈은 다르가봅니다. 결국 바루스는 영구정지를 당했네요.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/yKhDFOCyyDk/default.jpg",
+            "url": "https://i.ytimg.com/vi/ZbY838Pac7Y/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/yKhDFOCyyDk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZbY838Pac7Y/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/yKhDFOCyyDk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZbY838Pac7Y/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Lovely Legends",
+        "channelTitle": "Ju1st",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-11-03T05:11:10Z"
+        "publishTime": "2023-01-25T07:33:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DeqOE-nIiAQctiCKI0lRcnnzqIk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vRjFHbnIf1w"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-29T09:00:38Z",
+        "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
+        "title": "게임을 시작하지 [Faker Stream Highlight]",
+        "description": "페이커 방송국 바로가기 https://bj.afreecatv.com/leesh2148 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vRjFHbnIf1w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vRjFHbnIf1w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vRjFHbnIf1w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "T1 Faker",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-29T09:00:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wJUjg-kLMaNJpP94zvQBwHGewvw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kj1AUUwN52s"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-26T10:55:25Z",
+        "channelId": "UCGt6h41qCj0i4WR6cYFYrvA",
+        "title": "당신도 본 적 없는 페이커 미드 가렌, 왜 이렇게 강한 거지?",
+        "description": "LCK 공식 파트너 크리에이터 안녕하세요. 롤교육매드무비입니다. 제 채널에 와주셔서 정말 감사합니다 :) 라이엇과 라이엇 코리아에게 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kj1AUUwN52s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kj1AUUwN52s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kj1AUUwN52s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "롤사건탐정매누이",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-26T10:55:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CfoAlATpspNivvcobd4qbCXRFGk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UIV9YZvRD9M"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-21T12:00:18Z",
+        "channelId": "UC-VbFgagk6GJGDJgRQIMpZw",
+        "title": "첫 직관에 최애 선수인 페이커랑 사진까지?! 이것이 바로 성덕의 길...⭐ l #어서와신속배달 l #어서와한국은처음이지 l #MBCevery1 l EP.292",
+        "description": "첫 직관에 최애 선수인 페이커랑 사진까지?! 이것이 바로 성덕의 길...⭐ 00:00 본격 ⭐국내 롤 프로 리그 경기장 방문⭐ 00:51 ＂I ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UIV9YZvRD9M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UIV9YZvRD9M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UIV9YZvRD9M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBC every1",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-21T12:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mB91JBerMvToqY5aCdXw4pamB5s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fOooQK6GEXM"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-30T07:22:55Z",
+        "channelId": "UC9yIMSxkDAlzYGXE58tUSww",
+        "title": "[2022 롤드컵] 솔킬 후 유유히 살아나가는 페이커 스트리머 반응 모음ㅋㅋㅋ",
+        "description": "2022 롤드컵 #t1 #페이커 t1 vs jdg 3경기 페이커 솔킬 후 유유히 살아가는 모습 반응 울프 https://www.twitch.tv/lol_woolf 플레임 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fOooQK6GEXM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fOooQK6GEXM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fOooQK6GEXM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "롤스토리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-30T07:22:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sqnHsOSLPk0ndLlTMQoSvdvqyEk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kCOmpppsEss"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-11T03:42:03Z",
+        "channelId": "UCGt6h41qCj0i4WR6cYFYrvA",
+        "title": "페이커, 누구도 상상하지 못한 트페 빽도어 사건",
+        "description": "LCK 공식 파트너 크리에이터 안녕하세요. 롤교육매드무비입니다. 제 채널에 와주셔서 정말 감사합니다 :) 라이엇과 라이엇 코리아에게 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kCOmpppsEss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kCOmpppsEss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kCOmpppsEss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "롤사건탐정매누이",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-11T03:42:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4slDDs6MdL7daFU1bdoVjx5ia5E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t2amrdHLv_E"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-18T10:08:42Z",
+        "channelId": "UCLzIbBWR5nmZaTpyGEYd3mQ",
+        "title": "페이커가 환장하는 음식",
+        "description": "마라탕 #초코우유 #인앤아웃 웃 -스트레스 해소법 회 + 초코우유 -마라탕에 빠져버린 페이커 -페이커가 가장 사랑하는 햄버거 '인 앤 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t2amrdHLv_E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t2amrdHLv_E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t2amrdHLv_E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "맛있는생각",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-18T10:08:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vPmgg0WgWa2g9C001VvDBX5Eo1k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EfxAiz-RtpQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-01T23:01:20Z",
+        "channelId": "UCHBzepJnvhFXCQDT4B181hg",
+        "title": "T1 페이커 플레이오프 젠지전 슈퍼플레이를 본 사람들의 반응.zip",
+        "description": "영상에 나오시는 방송인분들의 반응이 더 궁금하시다면 링크를 이용하여 생방송, 다시보기 또는 유튜브를 이용해주세요 - 분란 또는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EfxAiz-RtpQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EfxAiz-RtpQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EfxAiz-RtpQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ju1st",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-01T23:01:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Wi8p_-Fs6gGjP7Rnd0BeUtoJXpM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l0rjB1lehco"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-16T07:00:17Z",
+        "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
+        "title": "보면 볼수록 「중독」되는 페이커의 카시오페아!🐍 [Faker Stream Highlight]",
+        "description": "페이커 방송국 바로가기 https://bj.afreecatv.com/leesh2148 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l0rjB1lehco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l0rjB1lehco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l0rjB1lehco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "T1 Faker",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-16T07:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mZGccmsCobe2HdX4PB-WrvGZUjI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nIv5gTxq4iI"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-22T10:00:24Z",
+        "channelId": "UCQabORQKQRHP-iUqe-xIFvg",
+        "title": "수능, 영상 편집, 코딩까지... 페이커의 미친 반응 속도ㄷㄷ / 스브스뉴스",
+        "description": "롤 역사상 최고의 선수! 말이 필요 없는 살아있는 레전드 그 자체! 롤 프로게이머 ☆페이커☆선수를 스브스뉴스가 만나고 왔습니다!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nIv5gTxq4iI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nIv5gTxq4iI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nIv5gTxq4iI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스브스뉴스 SUBUSUNEWS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-22T10:00:24Z"
       }
     },
     {
@@ -850,6 +1196,482 @@
         "channelTitle": "T1 Faker",
         "liveBroadcastContent": "none",
         "publishTime": "2022-10-19T09:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JN9I9w2NHGXwd3sIqX3WFpKfAmU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cWpTpBQlZ_8"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-18T22:19:21Z",
+        "channelId": "UCGt6h41qCj0i4WR6cYFYrvA",
+        "title": "당신은 이제서야 알게 될 페이커의 미드 트타 실력!",
+        "description": "LCK 공식 파트너 크리에이터 안녕하세요. 롤교육매드무비입니다. 제 채널에 와주셔서 정말 감사합니다 :) 라이엇과 라이엇 코리아에게 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cWpTpBQlZ_8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cWpTpBQlZ_8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cWpTpBQlZ_8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "롤사건탐정매누이",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-18T22:19:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hbrxaASNX6G5x9mF_ALtqSP-SE4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SitDEWWTLsM"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-31T07:14:17Z",
+        "channelId": "UCKcPuycU8pC_WEB5T9c5K2g",
+        "title": "페이커 리스펙하는 호진이 시청자한테 빡친 이유ㅋㅋㅋ",
+        "description": "댓글 다실 때, 유튜브 특성 상 선수들이 볼 수 있다는 점, 조금만 고려해주신 후 댓글 달아주시면 감사하겠습니다 (_ _) 시청해주셔서 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SitDEWWTLsM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SitDEWWTLsM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SitDEWWTLsM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "따봉티모",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-31T07:14:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JIyfNS26CGF2TcK29EokZswHJvQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DKViiCMHx1o"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-01T08:53:21Z",
+        "channelId": "UCGt6h41qCj0i4WR6cYFYrvA",
+        "title": "역대급 페이커의 이즈리얼, 상대방도 놀란 그의 실력",
+        "description": "LCK 공식 파트너 크리에이터 안녕하세요. 롤교육매드무비입니다. 제 채널에 와주셔서 정말 감사합니다 :) 라이엇과 라이엇 코리아에게 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DKViiCMHx1o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DKViiCMHx1o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DKViiCMHx1o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "롤사건탐정매누이",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-01T08:53:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-WiBx-wbx2PMXdyIPqDEfkrS-Vg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QXPl49Emqq8"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-23T09:00:13Z",
+        "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
+        "title": "🎤시기다른 프로들의 반대편을 바라보던 페이커의 아칼리! [Faker Stream Highlight]",
+        "description": "페이커 방송국 바로가기 https://bj.afreecatv.com/leesh2148 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QXPl49Emqq8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QXPl49Emqq8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QXPl49Emqq8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "T1 Faker",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-23T09:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3o3WyaFNwqg55tQOINoEij2PAr8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "giyVn5gcfZQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-19T08:53:40Z",
+        "channelId": "UC_RS3_EJoracWzakPd0GMGQ",
+        "title": "다시 보는 22MSI 페이커 레전드",
+        "description": "리그오브레전드 #lol #shorts #msi #페이커.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/giyVn5gcfZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/giyVn5gcfZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/giyVn5gcfZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "롤카",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-19T08:53:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UGETOU4-KBGfdJqG5s8oHPvSd5k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KuTTvLn1eM4"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-13T01:41:53Z",
+        "channelId": "UCGt6h41qCj0i4WR6cYFYrvA",
+        "title": "국제 대회 준결승전에서 1분 만에 게임을 터트렸던 페이커 레전드 경기",
+        "description": "미니언제로 #미드박살 #페이커 안녕하세요. 롤교육매드무비입니다. 제 채널에 와주셔서 정말 감사합니다 :) 영상이 재밌으면 좋아요 !",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KuTTvLn1eM4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KuTTvLn1eM4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KuTTvLn1eM4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "롤사건탐정매누이",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-13T01:41:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CWALHTDH7XKqOhUG81c8dZ1AJfk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Z9wXk04MgSg"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-06T04:37:28Z",
+        "channelId": "UCzGblRaF5unKKz10hACKGDg",
+        "title": "T1 페이커 악플러들 큰일났다..! 유튜브 댓글도 안전하지않다고? LPL 스카웃 탈락, 룰러 카나비의 진땀승.. 이번엔 다르다..?!",
+        "description": "T1 페이커 악플러들 큰일났다..! 유튜브 댓글도 안전하지않다고? LPL 스카웃 탈락, 룰러 카나비의 진땀승.. 이번엔 다르다..?! #lck #t1 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z9wXk04MgSg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z9wXk04MgSg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z9wXk04MgSg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "아리tv-롤정보통",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-06T04:37:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dmeNEdNBLvPT5j60Z6hi3vjQdeQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EoGXBXoJguI"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-27T05:14:33Z",
+        "channelId": "UCugNO83_V7xZLzCsjpABGeg",
+        "title": "페이커한테 극찬 받고 너무 기뻐서 100만원 후원하는 백크 (feat. 페이커 역대급 별풍 리액션)",
+        "description": "재밌게 시청해주세요! 모든 문의사항은 bkh173999@gmail.com outro: ryyzn - not important.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EoGXBXoJguI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EoGXBXoJguI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EoGXBXoJguI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백크 Baekk",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-27T05:14:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0u9mPN02wuAatypWFd87z4ijzAA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kTmpnK4mVEM"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-07T08:12:24Z",
+        "channelId": "UCNN4i-NMXppPvmwyQIj9GRQ",
+        "title": "군 면제를 받은 페이커, 이상혁",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kTmpnK4mVEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kTmpnK4mVEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kTmpnK4mVEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "숏츠맛집",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-07T08:12:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "T53ueuOtrTt139UkdNeQZRpa4x8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bTDeLv8thok"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-16T12:12:21Z",
+        "channelId": "UC8QI16_UqG2ogMXmzKgbm9Q",
+        "title": "페이커: 혁규야 우승축하한다",
+        "description": "데프트 #deft #dk #페이커 #faker #t1.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bTDeLv8thok/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bTDeLv8thok/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bTDeLv8thok/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "어쩔 데프트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-16T12:12:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XAQ4SfE9Aj5FN59hejQMO7bScL8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "o_XueYqcM6Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-10T07:07:06Z",
+        "channelId": "UCxZ1kTp7f-5u8o2p7qreVnw",
+        "title": "잠을 못잔 케리아 근황... 도파가 말하는 페이커의 폼 그리고 룰러의 젠지도발까지 롤소식 롤이슈",
+        "description": "LCK #케리아 #페이커 #도파 #룰러 #롤소식 #롤이슈.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o_XueYqcM6Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o_XueYqcM6Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o_XueYqcM6Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "롤소식갤러리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-10T07:07:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D1XOGIErCBZF91Fc2W3-IQPFv9s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Zb0qGrRgVoI"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-14T09:48:54Z",
+        "channelId": "UCbFzvzDu17eDZ3RIeaLRswQ",
+        "title": "[롤] 감스트 페이커님 솔킬따고 극찬받았습니다!! LOL",
+        "description": "[2022.12.11] 방송영상 입니다. #Faker #리그오브레전드 #leagueoflegends #감스트롤 #T1 #티원 #페이커 #제우스 #오너 #구마유시 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zb0qGrRgVoI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zb0qGrRgVoI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zb0qGrRgVoI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "감스트GAMST",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-14T09:48:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v-boXRqP86BYSIU-tpS7CTUFvuQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bPWGG922hmY"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-26T03:00:26Z",
+        "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
+        "title": "🚨속보🚨운석 협곡 충돌 3초전..! 페이커의 아우렐리온 솔! [Faker Stream Highlight]",
+        "description": "페이커 방송국 바로가기 https://bj.afreecatv.com/leesh2148 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bPWGG922hmY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bPWGG922hmY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bPWGG922hmY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "T1 Faker",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-26T03:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2rc-QvjKtR9ZHMkn7oMEnNFni1g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AailKw0QuqM"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-25T03:00:03Z",
+        "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+        "title": "This is My City : Seoul | Faker | 2023 월드 챔피언십",
+        "description": "This is My City는 서울시와의 공동 개최를 위해 서울시와 공동 제작한 영상입니다. ※ 국방부 및 관련 기관에 허가를 받고 안전하게 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AailKw0QuqM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AailKw0QuqM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AailKw0QuqM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LCK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-25T03:00:03Z"
       }
     }
   ]

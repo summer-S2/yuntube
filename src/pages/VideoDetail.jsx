@@ -28,7 +28,7 @@ export default function VideoDetail() {
         <div className="p-4">
           <h2 className="text-xl font-bold">{title}</h2>
           <ChannelInfo id={channelId} name={channelTitle} />
-          <Description description={description} />
+          <Description description={description} id={video.id} />
         </div>
       </article>
       <section className="lg:basis-2/6">

@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import { useParams } from "react-router-dom";
 import { useQuery } from "@tanstack/react-query";
 import VideoCard from "../components/VideoCard";
@@ -15,10 +15,7 @@ export default function Videos() {
   } = useQuery(["videos", keyword], () => yuntube.search(keyword), {
     staleTime: 1000 * 60,
   });
-
-  // console.log(keyword);
-  console.log(videos);
-  // console.log(error);
+  console.log("Videos 페이지 데이터 : ", videos);
 
   return (
     <>

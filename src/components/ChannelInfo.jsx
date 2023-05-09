@@ -12,7 +12,7 @@ export default function ChannelInfo({ id, name, type }) {
       staleTime: 1000 * 60 * 5,
     }
   );
-  console.log(url);
+  // console.log(url);
   return (
     <div className={`flex my-4 mb-4 items-center ${isHome && "mt-2"}`}>
       {url && (

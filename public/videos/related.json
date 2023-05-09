@@ -1,1105 +1,1056 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "mT8f3YjulH_kyDXTsIM5pad2-vA",
+  "etag": "kL9LTkO-zsORFgiGLT9AU7uHxlk",
   "nextPageToken": "CBkQAA",
   "pageInfo": {
-    "totalResults": 65,
+    "totalResults": 130,
     "resultsPerPage": 25
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "EBRlGzpkIJtTFS_YEcVeQ3DCtkA",
+      "etag": "8ujppfkkHkUF4AAh8MF9XLNeIVM",
       "id": {
         "kind": "youtube#video",
-        "videoId": "FcCcR-MB1fU"
+        "videoId": "XkzqUgKSPYo"
       },
       "snippet": {
-        "publishedAt": "2023-04-07T19:18:39Z",
-        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
-        "title": "T1 Faker Mid Rumble Melting KR SoloQ - Best of LoL Stream Highlights (Translated)",
-        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "publishedAt": "2023-04-13T06:16:35Z",
+        "channelId": "UCWR9bScKbu_47e0uRSJV9cA",
+        "title": "블츠 코앞에서 심리전 걸고 역관광하는 구마유시 [Gumayusi Stream Highlight]",
+        "description": "▶구마유시 방송국 바로가기 https://bj.afreecatv.com/rkalalsgud\n--------------------------------------------------\nhttps://bj.afreecatv.com/kcphy0909rk 제우스\nhttps://bj.afreecatv.com/ansguswns519 오너\nhttps://bj.afreecatv.com/leesh2148 페이커\nhttps://bj.afreecatv.com/rkalalsgud 구마유시\nhttps://bj.afreecatv.com/fbalstjr1234 케리아\n\n▶️12% OFF only for T1! Enter your favorite T1 player's name for coupon codes!\nSteelSeries Official Site : https://tiny.one/t1steelseries\nDiscount code : \nFAKER \nKERIA \nONER \nZEUS \nGUMAYUSI \n\n\n▶️OP.GG Desktop App : https://opgg.at/t1 \n\n▶️Subscribe and support us:\nhttps://www.youtube.com/user/SKTTeam1st/?sub_confirmation=1\n\n▶️Join T1 Membership:\nhttps://t1.fan\n\nFollow T1 pages:\n▶️Official Website : https://t1.gg\n▶️Official Twitter : https://twitter.com/T1LoL\n▶️Official Facebook : https://www.facebook.com/T1LoL\n▶️Official Youtube : https://www.youtube.com/user/SKTTeam1st\n▶️Official Instagram : https://www.instagram.com/T1LoL\n▶️Official Weibo: http://www.weibo.com/SKTT1LOL\n▶️Official Shop : https://t1.gg/shop\n\n#T1 #구마유시 #바루스 #제리",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/FcCcR-MB1fU/default.jpg",
+            "url": "https://i.ytimg.com/vi/XkzqUgKSPYo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/FcCcR-MB1fU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XkzqUgKSPYo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/FcCcR-MB1fU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XkzqUgKSPYo/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/FcCcR-MB1fU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/XkzqUgKSPYo/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/FcCcR-MB1fU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XkzqUgKSPYo/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Today on the Korean Server",
+        "channelTitle": "T1 Gumayusi",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-07T19:18:39Z"
+        "publishTime": "2023-04-13T06:16:35Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ZiPzqcDjwW4NS_Ca-GMJAnZFRtw",
+      "etag": "KhpA8Ji0k9ZGtqgcVOSl0RW3vQE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "rlws63qHopw"
+        "videoId": "LlmtOtwlt8M"
       },
       "snippet": {
-        "publishedAt": "2023-03-29T03:17:07Z",
-        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
-        "title": "T1 Gumayusi Popping Off With Draven Vs HLE Viper! - Best of LoL Stream Highlights (Translated)",
-        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "publishedAt": "2021-09-27T07:40:54Z",
+        "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
+        "title": "미드 안 해! 페이커 원딜 야스오 [Faker Stream Highlight]",
+        "description": "▶️OP.GG Desktop App : https://bit.ly/3oddVnc\n\n▶️Subscribe and support us:\nhttps://www.youtube.com/c/SKTT1Faker_official/?sub_confirmation=1\n\n▶️Join T1 Membership:\nhttps://www.youtube.com/channel/UCJprx3bX49vNl6Bcw01Cwfg/join\n\nFollow T1 pages:\n▶️Official Website : https://t1.gg\n▶️Official Twitter : https://twitter.com/T1LoL\n▶️Official Facebook : https://www.facebook.com/T1LoL\n▶️Official Youtube : https://www.youtube.com/user/SKTTeam1st\n▶️Official Instagram : https://www.instagram.com/T1LoL\n▶️Official Weibo: http://www.weibo.com/SKTT1LOL\n▶️Official Shop : https://t1.gg/shop\n\n#T1 #페이커 #야스오",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/rlws63qHopw/default.jpg",
+            "url": "https://i.ytimg.com/vi/LlmtOtwlt8M/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/rlws63qHopw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/LlmtOtwlt8M/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/rlws63qHopw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/LlmtOtwlt8M/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/rlws63qHopw/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/LlmtOtwlt8M/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/rlws63qHopw/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/LlmtOtwlt8M/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Today on the Korean Server",
+        "channelTitle": "T1 Faker",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-03-29T03:17:07Z"
+        "publishTime": "2021-09-27T07:40:54Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "edKnaoZylY3BAr_QbtsrNsjLw3U",
+      "etag": "5gpCoFTxKLohVzWgP7XNeL2l4Ko",
       "id": {
         "kind": "youtube#video",
-        "videoId": "u1lGvcQnbX8"
+        "videoId": "TrUTVPT4do8"
       },
       "snippet": {
-        "publishedAt": "2023-03-30T15:51:31Z",
-        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
-        "title": "This is Korean Gold Mechanics! - Best of LoL Stream Highlights (Translated)",
-        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "publishedAt": "2023-04-13T06:34:29Z",
+        "channelId": "UCYDg0_mq6Ik8V2nF72mfDPw",
+        "title": "그저 케멘… [Keria Stream Highlight]",
+        "description": "▶케리아 방송국 바로가기 https://bj.afreecatv.com/fbalstjr1234\n--------------------------------------------------\nhttps://bj.afreecatv.com/kcphy0909rk 제우스\nhttps://bj.afreecatv.com/ansguswns519 오너\nhttps://bj.afreecatv.com/leesh2148 페이커\nhttps://bj.afreecatv.com/rkalalsgud 구마유시\nhttps://bj.afreecatv.com/fbalstjr1234 케리아\n\n▶12% OFF only for T1! Enter your favorite T1 player's name for coupon codes!\nSteelSeries Official Site : https://tiny.one/t1steelseries\nDiscount code : \nFAKER \nKERIA \nONER \nZEUS \nGUMAYUSI\n\n▶️Subscribe and support us:\nhttps://www.youtube.com/user/SKTTeam1st/?sub_confirmation=1\n\n▶️Join T1 Membership:\nhttps://t1.fan\n\nFollow T1 pages:\n▶️Official Website : https://t1.gg\n▶️Official Twitter : https://twitter.com/T1LoL\n▶️Official Facebook : https://www.facebook.com/T1LoL\n▶️Official Youtube : https://www.youtube.com/user/SKTTeam1st\n▶️Official Instagram : https://www.instagram.com/T1LoL\n▶️Official Weibo: http://www.weibo.com/SKTT1LOL\n▶️Official Shop : https://t1.gg/shop\n\n#T1 #케리아 #블리츠크랭크",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/u1lGvcQnbX8/default.jpg",
+            "url": "https://i.ytimg.com/vi/TrUTVPT4do8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/u1lGvcQnbX8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/TrUTVPT4do8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/u1lGvcQnbX8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/TrUTVPT4do8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/u1lGvcQnbX8/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/TrUTVPT4do8/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/u1lGvcQnbX8/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/TrUTVPT4do8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Today on the Korean Server",
+        "channelTitle": "T1 Keria",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-03-30T15:51:31Z"
+        "publishTime": "2023-04-13T06:34:29Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "hZJ3YS7tKR3WMLdqRn9KD7qtq7I",
+      "etag": "gGDpc7pfVGMygWxTO2VHmIF2Ll0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "QRQpvCjio6g"
+        "videoId": "8-ObR2plKuI"
       },
       "snippet": {
-        "publishedAt": "2023-03-31T19:26:18Z",
-        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
-        "title": "T1 Playing ARAM All Together! - Zeus | Oner | Faker | Gumayusi | Keria",
-        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "publishedAt": "2020-02-11T04:13:16Z",
+        "channelId": "UCsLP_jRpq6g6C1o9W25mCPg",
+        "title": "페이커 즐겜모드 - 트롤 매드무비 (Faker Best Troll moments)",
+        "description": "페이커 즐겜모드 ON 즐겁게 봐주시고 구독해주세요!\n\n\n\nBGM \nHello\nThe Party Troll",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/QRQpvCjio6g/default.jpg",
+            "url": "https://i.ytimg.com/vi/8-ObR2plKuI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/QRQpvCjio6g/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8-ObR2plKuI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/QRQpvCjio6g/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8-ObR2plKuI/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/QRQpvCjio6g/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/8-ObR2plKuI/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/QRQpvCjio6g/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8-ObR2plKuI/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Today on the Korean Server",
+        "channelTitle": "LoLife",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-03-31T19:26:18Z"
+        "publishTime": "2020-02-11T04:13:16Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "0piWpjGK4N5PirZp9G-jKTtKtA4",
+      "etag": "DKk3VL9FFHaVEPci06gW9xkEvPs",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Kw2-zR8q9vM"
+        "videoId": "yXJKI9O-sVs"
       },
       "snippet": {
-        "publishedAt": "2023-03-17T19:18:51Z",
-        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
-        "title": "T1 Gumayusi + 200 Years = Pentakill - Best of LoL Stream Highlights (Translated)",
-        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "publishedAt": "2023-03-14T17:18:07Z",
+        "channelId": "UCqvZHFhEnFd-uFsDo0eqvjQ",
+        "title": "Faker Plays Jayce | Highlight Editting",
+        "description": "SkT T1 Faker  Plays Jayce\n13/03/2023\n\nThanks Watching, and if you enjoy this video, please like it and subscribe my channel!\nFind More Interesting Videos in My Channel!",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Kw2-zR8q9vM/default.jpg",
+            "url": "https://i.ytimg.com/vi/yXJKI9O-sVs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Kw2-zR8q9vM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/yXJKI9O-sVs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Kw2-zR8q9vM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/yXJKI9O-sVs/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Kw2-zR8q9vM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/yXJKI9O-sVs/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Kw2-zR8q9vM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/yXJKI9O-sVs/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Today on the Korean Server",
+        "channelTitle": "LOLRecorder",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-03-17T19:18:51Z"
+        "publishTime": "2023-03-14T17:18:07Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "5TGE0CMM7rYo7e0TKBhIUBl-EFo",
+      "etag": "7o_AggkTmr5mFJI0kgmSo083dbU",
       "id": {
         "kind": "youtube#video",
-        "videoId": "7zUuInlBPoE"
+        "videoId": "PILLAwB4Q8c"
       },
       "snippet": {
-        "publishedAt": "2023-04-03T19:37:46Z",
-        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
-        "title": "PZ ZZANG VS FAKER...'s Turret - Best of LoL Stream Highlights (Translated)",
-        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "publishedAt": "2022-11-22T21:19:17Z",
+        "channelId": "UCGt6h41qCj0i4WR6cYFYrvA",
+        "title": "페이커 전설의 미드 리븐 사건",
+        "description": "* LCK 공식 파트너 크리에이터\n\n안녕하세요. 롤교육매드무비입니다.\n제 채널에 와주셔서 정말 감사합니다 :)\n\n라이엇과 라이엇 코리아에게 2차 창작을 허락받고\n2차 창작을 하여\n여러분들에게 제공하고 있습니다.\n\n좋아요 와 구독하기는 저에게 가장 큰 힘이 됩니다.\n항상 여러분들이 영상을 봐주시기에\n힘을 얻습니다.\n귀중한 시간 내주셔서 정말 감사드립니다.\n\n유튜브 영상 링크:https://youtu.be/PILLAwB4Q8c\n\n#페이커 #t1 #lck #faker #챔프폭 #미드리븐",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/7zUuInlBPoE/default.jpg",
+            "url": "https://i.ytimg.com/vi/PILLAwB4Q8c/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/7zUuInlBPoE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PILLAwB4Q8c/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/7zUuInlBPoE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PILLAwB4Q8c/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/7zUuInlBPoE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/PILLAwB4Q8c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "롤사건탐정매누이",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-22T21:19:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hftscWMwqq70aLyiaKQidph8rgQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nV2JDytWf_Q"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-30T06:45:25Z",
+        "channelId": "UCJprx3bX49vNl6Bcw01Cwfg",
+        "title": "[연말특집] 하드에 모아둔 클립들! 제오구케 하이라이트",
+        "description": "▶️12% OFF only for T1! Enter your favorite T1 player's name for coupon codes!\nSteelSeries Official Site : https://tiny.one/t1steelseries\nDiscount code : \nFAKER \nKERIA \nONER \nZEUS \nGUMAYUSI \n▶️OP.GG Desktop App : https://opgg.at/t1 \n\n▶️Subscribe and support us:\nhttps://www.youtube.com/user/SKTTeam1st/?sub_confirmation=1\n\n▶️Join T1 Membership:\nhttps://www.youtube.com/channel/UCJprx3bX49vNl6Bcw01Cwfg/join\n\nFollow T1 pages:\n▶️Official Website : https://t1.gg\n▶️Official Twitter : https://twitter.com/T1LoL\n▶️Official Facebook : https://www.facebook.com/T1LoL\n▶️Official Youtube : https://www.youtube.com/user/SKTTeam1st\n▶️Official Instagram : https://www.instagram.com/T1LoL\n▶️Official Weibo: http://www.weibo.com/SKTT1LOL\n▶️Official Shop : https://t1.gg/shop\n\n#T1 #클립모음 #이제는아프리카",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nV2JDytWf_Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nV2JDytWf_Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nV2JDytWf_Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nV2JDytWf_Q/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/7zUuInlBPoE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/nV2JDytWf_Q/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Today on the Korean Server",
+        "channelTitle": "T1",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-03T19:37:46Z"
+        "publishTime": "2022-12-30T06:45:25Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Y7hsIWbzEQG5C62QraGqONEjdYs",
+      "etag": "zhSY_nfYNq9Y0oeIFFs0NOaHaQg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "2241x5jk5D8"
+        "videoId": "MguTO0bHAME"
       },
       "snippet": {
-        "publishedAt": "2023-04-04T20:15:36Z",
-        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
-        "title": "The Classic Korean Challenger Level 1 All Out - Best of LoL Stream Highlights (Translated)",
-        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "publishedAt": "2022-01-21T07:24:47Z",
+        "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
+        "title": "너희들 덕분에 프리시즌 기분 좋게 끝냈다 ㅎㅎ [Faker Stream Highlight]",
+        "description": "▶️OP.GG Desktop App : https://bit.ly/3oddVnc\n\n▶️Subscribe and support us:\nhttps://www.youtube.com/c/SKTT1Faker_official/?sub_confirmation=1\n\n▶️Join T1 Membership:\nhttps://www.youtube.com/channel/UCJprx3bX49vNl6Bcw01Cwfg/join\n\nFollow T1 pages:\n▶️Official Website : https://t1.gg\n▶️Official Twitter : https://twitter.com/T1LoL\n▶️Official Facebook : https://www.facebook.com/T1LoL\n▶️Official Youtube : https://www.youtube.com/user/SKTTeam1st\n▶️Official Instagram : https://www.instagram.com/T1LoL\n▶️Official Weibo: http://www.weibo.com/SKTT1LOL\n▶️Official Shop : https://t1.gg/shop\n\n#Faker #프리시즌1000점찍기 #고맙다얘들아",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/2241x5jk5D8/default.jpg",
+            "url": "https://i.ytimg.com/vi/MguTO0bHAME/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/2241x5jk5D8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MguTO0bHAME/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/2241x5jk5D8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MguTO0bHAME/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/2241x5jk5D8/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/MguTO0bHAME/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/2241x5jk5D8/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MguTO0bHAME/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Today on the Korean Server",
+        "channelTitle": "T1 Faker",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-04T20:15:36Z"
+        "publishTime": "2022-01-21T07:24:47Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "LCFd9b1p5guu8PFnTtP3scwdIgg",
+      "etag": "U8guSBMBI9v_QSNmNvzLt3DMCDc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "HToXhDqUvhE"
+        "videoId": "9eGr5LTa1T0"
       },
       "snippet": {
-        "publishedAt": "2023-04-06T17:58:23Z",
-        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
-        "title": "How Many Hats Do You Want? Yes - Best of LoL Stream Highlights (Translated)",
-        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "publishedAt": "2023-04-15T17:25:34Z",
+        "channelId": "UC-8S20Ll1gzPiu_YY8BgyaQ",
+        "title": "AD380 체력 10000, 레전드 괴물카밀 등장",
+        "description": "저는 챌린저 렝가장인 캐인 이라고 합니다\n\n✔렝가 아웃트로 브금 : Close To The Sun\n   카직스 아웃트로 브금 : Rise Up \n\n캐인 생방송 - https://www.twitch.tv/sj009469\n\n✔문의메일: sj009469@gmail.com\n인스타 zodls_\n\n롤 쓰고 있는 계정\n(본계정- 캐인)  https://www.op.gg/summoners/kr/캐인\n(부계정- zodls) https://www.op.gg/summoners/kr/zodls\n\n키보드 - 앱코 k995p v3 \n\nThanks for watching my video, i'm cain, KR challenger best rengar player\nRengar Main, in Korea server, Challenger up to 1100 LP \nThank you ! \n\n#강철심장#카밀",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/HToXhDqUvhE/default.jpg",
+            "url": "https://i.ytimg.com/vi/9eGr5LTa1T0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/HToXhDqUvhE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/9eGr5LTa1T0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/HToXhDqUvhE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/9eGr5LTa1T0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/HToXhDqUvhE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/9eGr5LTa1T0/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/HToXhDqUvhE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/9eGr5LTa1T0/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Today on the Korean Server",
+        "channelTitle": "캐인유튜브",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-06T17:58:23Z"
+        "publishTime": "2023-04-15T17:25:34Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "-X60LBF8VycIp_UeSyU7GvL2Rb0",
+      "etag": "qg4_iBDc6YLT3u_qCBSlN7duUVQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "pGda4TC7L88"
+        "videoId": "kM5BbvXzRpA"
       },
       "snippet": {
-        "publishedAt": "2023-03-24T19:55:47Z",
-        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
-        "title": "T1 Gumayusi Stops Baron 1v5 Into Pentakill - Best of LoL Stream Highlights (Translated)",
-        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "publishedAt": "2023-03-08T10:00:12Z",
+        "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
+        "title": "선픽이라도 캐리 하면 그만입니다 페이커의 요네! [Faker Stream Highlight]",
+        "description": "▶페이커 방송국 바로가기 https://bj.afreecatv.com/leesh2148\n\n--------------------------------------------------\nhttps://bj.afreecatv.com/kcphy0909rk 제우스\nhttps://bj.afreecatv.com/ansguswns519 오너\nhttps://bj.afreecatv.com/leesh2148 페이커\nhttps://bj.afreecatv.com/rkalalsgud 구마유시\nhttps://bj.afreecatv.com/fbalstjr1234 케리아\n\n▶️12% OFF only for T1! Enter your favorite T1 player's name for coupon codes!\nSteelSeries Official Site : https://tiny.one/t1steelseries\nDiscount code : \nFAKER \nKERIA \nONER \nZEUS \nGUMAYUSI \n\n▶️OP.GG Desktop App : https://bit.ly/3oddVnc\n\n▶️Subscribe and support us:\nhttps://www.youtube.com/c/SKTT1Faker_official/?sub_confirmation=1\n\n▶️Join T1 Membership:\nhttps://t1.fan\n\nFollow T1 pages:\n▶️Official Website : https://t1.gg\n▶️Official Twitter : https://twitter.com/T1LoL\n▶️Official Facebook : https://www.facebook.com/T1LoL\n▶️Official Youtube : https://www.youtube.com/user/SKTTeam1st\n▶️Official Instagram : https://www.instagram.com/T1LoL\n▶️Official Weibo: http://www.weibo.com/SKTT1LOL\n▶️Official Shop : https://t1.gg/shop\n\n#T1 #페이커 #요네",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/pGda4TC7L88/default.jpg",
+            "url": "https://i.ytimg.com/vi/kM5BbvXzRpA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/pGda4TC7L88/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kM5BbvXzRpA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/pGda4TC7L88/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kM5BbvXzRpA/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/pGda4TC7L88/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/kM5BbvXzRpA/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/pGda4TC7L88/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kM5BbvXzRpA/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Today on the Korean Server",
+        "channelTitle": "T1 Faker",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-03-24T19:55:47Z"
+        "publishTime": "2023-03-08T10:00:12Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "AMO4SVKQbXgqeZBNehzNm8-xUsw",
+      "etag": "7ND73mxpR5-QBaPLqmPrp8ofdaI",
       "id": {
         "kind": "youtube#video",
-        "videoId": "bcqHhhMf4fo"
+        "videoId": "vBiHqdBNTUc"
       },
       "snippet": {
-        "publishedAt": "2023-03-18T17:54:26Z",
-        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
-        "title": "TIL Renata Glasc Ult Works on Minions! - Best of LoL Stream Highlights (Translated)",
-        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "publishedAt": "2023-03-24T14:36:12Z",
+        "channelId": "UC3Q-vROxnvLKyEtCK8bu_-g",
+        "title": "페이커의 카시오페아가 2분만에 게임 터트리는 법",
+        "description": "2017 MSI 준결승\nSKT vs 플래시울브즈\n\n구독자 여러분 항상 감사드립니다.\n\n구독과 좋아요 부탁 드립니다.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/bcqHhhMf4fo/default.jpg",
+            "url": "https://i.ytimg.com/vi/vBiHqdBNTUc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/bcqHhhMf4fo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vBiHqdBNTUc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/bcqHhhMf4fo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vBiHqdBNTUc/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/bcqHhhMf4fo/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/vBiHqdBNTUc/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/bcqHhhMf4fo/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vBiHqdBNTUc/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Today on the Korean Server",
+        "channelTitle": "둥쓰TV",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-03-18T17:54:26Z"
+        "publishTime": "2023-03-24T14:36:12Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "dDrqPGwpaC8MCOlfzuFiU8pNJrE",
+      "etag": "82GTmaByGizV6B2xh0ovWQPP1-A",
       "id": {
         "kind": "youtube#video",
-        "videoId": "lmERLRJySG4"
+        "videoId": "Mbm__qA-9hQ"
       },
       "snippet": {
-        "publishedAt": "2023-03-27T18:26:01Z",
-        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
-        "title": "T1 Faker Practicing Mid Tristana For LCK Playoffs! - Best of LoL Stream Highlights (Translated)",
-        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "publishedAt": "2023-03-08T06:43:18Z",
+        "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
+        "title": "쿵쿵아 가자! 페이커 정글 사일러스 [Faker Stream Highlight]",
+        "description": "▶페이커 방송국 바로가기 https://bj.afreecatv.com/leesh2148\n\n--------------------------------------------------\nhttps://bj.afreecatv.com/kcphy0909rk 제우스\nhttps://bj.afreecatv.com/ansguswns519 오너\nhttps://bj.afreecatv.com/leesh2148 페이커\nhttps://bj.afreecatv.com/rkalalsgud 구마유시\nhttps://bj.afreecatv.com/fbalstjr1234 케리아\n\n▶️12% OFF only for T1! Enter your favorite T1 player's name for coupon codes!\nSteelSeries Official Site : https://tiny.one/t1steelseries\nDiscount code : \nFAKER \nKERIA \nONER \nZEUS \nGUMAYUSI \n\n▶️OP.GG Desktop App : https://bit.ly/3oddVnc\n\n▶️Subscribe and support us:\nhttps://www.youtube.com/c/SKTT1Faker_official/?sub_confirmation=1\n\n▶️Join T1 Membership:\nhttps://t1.fan\n\nFollow T1 pages:\n▶️Official Website : https://t1.gg\n▶️Official Twitter : https://twitter.com/T1LoL\n▶️Official Facebook : https://www.facebook.com/T1LoL\n▶️Official Youtube : https://www.youtube.com/user/SKTTeam1st\n▶️Official Instagram : https://www.instagram.com/T1LoL\n▶️Official Weibo: http://www.weibo.com/SKTT1LOL\n▶️Official Shop : https://t1.gg/shop\n\n#T1 #페이커 #사일러스",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/lmERLRJySG4/default.jpg",
+            "url": "https://i.ytimg.com/vi/Mbm__qA-9hQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/lmERLRJySG4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Mbm__qA-9hQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/lmERLRJySG4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Mbm__qA-9hQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/lmERLRJySG4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Mbm__qA-9hQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/lmERLRJySG4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Mbm__qA-9hQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Today on the Korean Server",
+        "channelTitle": "T1 Faker",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-03-27T18:26:01Z"
+        "publishTime": "2023-03-08T06:43:18Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "drT43e6hPm85k-uhqrV-dehLsz8",
+      "etag": "NJ752hg44qYftYPnqo6HDl6LHI8",
       "id": {
         "kind": "youtube#video",
-        "videoId": "cjNDoVGGJi4"
+        "videoId": "QXPl49Emqq8"
       },
       "snippet": {
-        "publishedAt": "2023-03-25T11:33:21Z",
-        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
-        "title": "The Most HYPE Telecom War in History! - T1 vs KT - LCK Spring 2023 Playoffs Highlights",
-        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "publishedAt": "2023-02-23T06:17:14Z",
+        "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
+        "title": "🎤시기다른 프로들의 반대편을 바라보던 페이커의 아칼리! [Faker Stream Highlight]",
+        "description": "▶페이커 방송국 바로가기 https://bj.afreecatv.com/leesh2148\n\n--------------------------------------------------\nhttps://bj.afreecatv.com/kcphy0909rk 제우스\nhttps://bj.afreecatv.com/ansguswns519 오너\nhttps://bj.afreecatv.com/leesh2148 페이커\nhttps://bj.afreecatv.com/rkalalsgud 구마유시\nhttps://bj.afreecatv.com/fbalstjr1234 케리아\n\n▶️12% OFF only for T1! Enter your favorite T1 player's name for coupon codes!\nSteelSeries Official Site : https://tiny.one/t1steelseries\nDiscount code : \nFAKER \nKERIA \nONER \nZEUS \nGUMAYUSI \n\n▶️OP.GG Desktop App : https://bit.ly/3oddVnc\n\n▶️Subscribe and support us:\nhttps://www.youtube.com/c/SKTT1Faker_official/?sub_confirmation=1\n\n▶️Join T1 Membership:\nhttps://t1.fan\n\nFollow T1 pages:\n▶️Official Website : https://t1.gg\n▶️Official Twitter : https://twitter.com/T1LoL\n▶️Official Facebook : https://www.facebook.com/T1LoL\n▶️Official Youtube : https://www.youtube.com/user/SKTTeam1st\n▶️Official Instagram : https://www.instagram.com/T1LoL\n▶️Official Weibo: http://www.weibo.com/SKTT1LOL\n▶️Official Shop : https://t1.gg/shop\n\n#T1 #페이커 #아칼리",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/cjNDoVGGJi4/default.jpg",
+            "url": "https://i.ytimg.com/vi/QXPl49Emqq8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/cjNDoVGGJi4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QXPl49Emqq8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/cjNDoVGGJi4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QXPl49Emqq8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/cjNDoVGGJi4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/QXPl49Emqq8/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/cjNDoVGGJi4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QXPl49Emqq8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Today on the Korean Server",
+        "channelTitle": "T1 Faker",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-03-25T11:33:21Z"
+        "publishTime": "2023-02-23T06:17:14Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "3fU0QLOB-byyEjHSc5jUcpHypR4",
+      "etag": "8ZIe3bziFyUVkYVGkITWtsVOlvQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "K6ukmeipeV8"
+        "videoId": "TCFrU4uxQVo"
       },
       "snippet": {
-        "publishedAt": "2023-04-01T10:55:27Z",
-        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
-        "title": "2.5 Hours of PEAK League of Legends - T1 vs GEN G - LCK Spring 2023 Playoffs Highlights",
-        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "publishedAt": "2022-11-30T22:25:42Z",
+        "channelId": "UCGt6h41qCj0i4WR6cYFYrvA",
+        "title": "페이커 전설의 미드 이렐 사건",
+        "description": "* LCK 공식 파트너 크리에이터\n\n안녕하세요. 롤교육매드무비입니다.\n제 채널에 와주셔서 정말 감사합니다 :)\n\n라이엇과 라이엇 코리아에게 2차 창작을 허락받고\n2차 창작을 하여\n여러분들에게 제공하고 있습니다.\n\n좋아요 와 구독하기는 저에게 가장 큰 힘이 됩니다.\n항상 여러분들이 영상을 봐주시기에\n힘을 얻습니다.\n귀중한 시간 내주셔서 정말 감사드립니다.\n\n유튜브 영상 링크:https://youtu.be/TCFrU4uxQVo\n\n#페이커 #t1 #lck #faker #챔프폭 #미드이렐",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/K6ukmeipeV8/default.jpg",
+            "url": "https://i.ytimg.com/vi/TCFrU4uxQVo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/K6ukmeipeV8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/TCFrU4uxQVo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/K6ukmeipeV8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/TCFrU4uxQVo/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/K6ukmeipeV8/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/TCFrU4uxQVo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "롤사건탐정매누이",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-30T22:25:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VsnctjqYnl6PxVro7TarGj35QTo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wu9QIwr2VSI"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-05T05:10:15Z",
+        "channelId": "UCYDg0_mq6Ik8V2nF72mfDPw",
+        "title": "수상하도록 미드와 탑을 잘하는 서포터 케리아 [Keria Stream Highlight]",
+        "description": "▶케리아 방송국 바로가기 https://bj.afreecatv.com/fbalstjr1234\n--------------------------------------------------\nhttps://bj.afreecatv.com/kcphy0909rk 제우스\nhttps://bj.afreecatv.com/ansguswns519 오너\nhttps://bj.afreecatv.com/leesh2148 페이커\nhttps://bj.afreecatv.com/rkalalsgud 구마유시\nhttps://bj.afreecatv.com/fbalstjr1234 케리아\n\n▶12% OFF only for T1! Enter your favorite T1 player's name for coupon codes!\nSteelSeries Official Site : https://tiny.one/t1steelseries\nDiscount code : \nFAKER \nKERIA \nONER \nZEUS \nGUMAYUSI\n\n▶️Subscribe and support us:\nhttps://www.youtube.com/user/SKTTeam1st/?sub_confirmation=1\n\n▶️Join T1 Membership:\nhttps://t1.fan\n\nFollow T1 pages:\n▶️Official Website : https://t1.gg\n▶️Official Twitter : https://twitter.com/T1LoL\n▶️Official Facebook : https://www.facebook.com/T1LoL\n▶️Official Youtube : https://www.youtube.com/user/SKTTeam1st\n▶️Official Instagram : https://www.instagram.com/T1LoL\n▶️Official Weibo: http://www.weibo.com/SKTT1LOL\n▶️Official Shop : https://t1.gg/shop\n\n#T1 #케리아",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wu9QIwr2VSI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wu9QIwr2VSI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wu9QIwr2VSI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Wu9QIwr2VSI/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/K6ukmeipeV8/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Wu9QIwr2VSI/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Today on the Korean Server",
+        "channelTitle": "T1 Keria",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-01T10:55:27Z"
+        "publishTime": "2023-04-05T05:10:15Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "bhmurtnzorW8tvkAEcuqBcgmyT0",
+      "etag": "1mLpGLQeJhtpE4X9UI0yX6IPcn0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "7Qg-qQIbhGQ"
+        "videoId": "lyMRyHcLszY"
       },
       "snippet": {
-        "publishedAt": "2023-03-20T06:08:52Z",
-        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
-        "title": "Faker 10 Years Debut Anniversary! - T1 vs NS  - LCK Spring 2023",
-        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "publishedAt": "2021-10-07T08:17:43Z",
+        "channelId": "UCJprx3bX49vNl6Bcw01Cwfg",
+        "title": "구마유시의 바텀 강의 ”이것만 알아도 마스터까지는 갈 수 있다!” [T1 Stream Highlight]",
+        "description": "▶️OP.GG Desktop App : https://opgg.at/t1 \n#구마유시 #칼리스타 #T1\n\n▶️Subscribe and support us:\nhttps://www.youtube.com/user/SKTTeam1st/?sub_confirmation=1\n\n▶️Join T1 Membership:\nhttps://www.youtube.com/channel/UCJprx3bX49vNl6Bcw01Cwfg/join\n\nFollow T1 pages:\n▶️Official Website : https://t1.gg\n▶️Official Twitter : https://twitter.com/T1LoL\n▶️Official Facebook : https://www.facebook.com/T1LoL\n▶️Official Youtube : https://www.youtube.com/user/SKTTeam1st\n▶️Official Instagram : https://www.instagram.com/T1LoL\n▶️Official Weibo: http://www.weibo.com/SKTT1LOL\n▶️Official Shop : https://t1.gg/shop",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/7Qg-qQIbhGQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/lyMRyHcLszY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/7Qg-qQIbhGQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lyMRyHcLszY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/7Qg-qQIbhGQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lyMRyHcLszY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/7Qg-qQIbhGQ/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/lyMRyHcLszY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/7Qg-qQIbhGQ/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lyMRyHcLszY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Today on the Korean Server",
+        "channelTitle": "T1",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-03-20T06:08:52Z"
+        "publishTime": "2021-10-07T08:17:43Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "XJh4qNzLtBC9qw9tU844rXN9VQA",
+      "etag": "q--4b-BMXZL515U8eiFRKp3ybUc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "E-INv6m6UXE"
+        "videoId": "ORQBEMbBH_M"
       },
       "snippet": {
-        "publishedAt": "2023-04-09T20:41:32Z",
-        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
-        "title": "The Most Watched LCK Final EVER! - T1 vs GEN G - LCK Spring 2023 Finals Highlights",
-        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "publishedAt": "2023-03-21T06:16:01Z",
+        "channelId": "UCgxuy0tK7p9GsQqre_5Qtmw",
+        "title": "페이커와 쵸비, 쵸비의 핸들링에 미소 짓는 페이커",
+        "description": "구독하고 종을 눌러 최신 동영상을 시청하세요\nLIKE and SUBSCRIBE for more videos like this!\nDon't forget to click the ?? Bell to join Notification Squad!\nSee a mistake in the credit list or any other problem with this video? Please email us and we'll do our best to resolve your issue. Email: homeo150660@gmail.com\n\nFaker:\nLee \"Faker\" Sang-hyeok (Hangul: 이상혁) is a League of Legends esports player, currently mid laner and part owner at T1.\nName Lee Sang-hyeok (이상혁)\nCountry of Birth \nSouth Korea\nBirthday May 7, 1996 (age 25)\nResidency Korea\nhttps://twitter.com/faker\nhttps://bj.afreecatv.com/leesh2148 \n\nChovy:\nJeong \"Chovy\" Ji-hoon (Hangul: 정지훈) is a League of Legends esports player, currently mid laner for Gen.G. He was previously known as ji hun.\nName Jeong Ji-hoon (정지훈)\nCountry of Birth \nSouth Korea\nBirthday March 3, 2001 (age 21)\nResidency Korea\nhttps://bj.afreecatv.com/wlgnsdl0303\n#chovy #faker",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/E-INv6m6UXE/default.jpg",
+            "url": "https://i.ytimg.com/vi/ORQBEMbBH_M/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/E-INv6m6UXE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ORQBEMbBH_M/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/E-INv6m6UXE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ORQBEMbBH_M/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/E-INv6m6UXE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ORQBEMbBH_M/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/E-INv6m6UXE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ORQBEMbBH_M/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Today on the Korean Server",
+        "channelTitle": "여기가 동맹이다(LOLKR)",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-09T20:41:32Z"
+        "publishTime": "2023-03-21T06:16:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "qOghwQF1nlYHPTYWW4_wBwFos8c",
+      "etag": "tRc6U_OYfM_vEHog5bpY9bVa94g",
       "id": {
         "kind": "youtube#video",
-        "videoId": "xNmr7N61bJc"
+        "videoId": "dr62P7nCkXE"
       },
       "snippet": {
-        "publishedAt": "2023-03-23T20:55:13Z",
-        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
-        "title": "Sick Series! - DK vs HLE  - LCK Spring 2023 Playoffs Highlights",
-        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "publishedAt": "2023-04-13T09:07:52Z",
+        "channelId": "UCNzcxCN_Hh_lu5RCSFXKgGQ",
+        "title": "🚨 긴급체포🚨  중국 대규모 불법 유저 참교육했습니다. 쫄리니까 한국어로 욕도하네 ㅋㅋㅋ(배그 공지 포함)",
+        "description": "》김블루의 숨겨진 혜택이 넘치는 사탄클럽가입하기!! :  https://www.youtube.com/channel/UCNzcxCN_Hh_lu5RCSFXKgGQ/join\n》유튜브 알림 문제 해결 하기! : https://support.google.com/youtube/troubleshooter/9334012?hl=ko\n》김블루 인스타 : https://www.instagram.com/kimblue_37/?hl=ko\n》트위치 바로가기: https://www.twitch.tv/rainblue37\n》김블루 팬카페!! : https://cafe.naver.com/bloodang\n★지금 구독하기와 좋아요버튼을 꾹 눌러달라구!!★\n》제가 직접 3년째 사용 중인 컴퓨터 오버시스템 링크 - https://oversystem.co.kr/\n사장님이 너무나 착하십니다 김블루 보고 왔다고 적어주세요! \n\n문의 & 스폰문의 - kimblue@googlegroups.com\n\n\n-------------------------------------------------------------------------------------\n\n음원 - JWVID , 유튜브 라이브러리, 퍽픽, NCS\nKevin MacLeod의 음원은(는) Creative Commons Attribution 라이선스에 따라 라이선스가 부여됩니다.\n출처: https://soundcloud.com/kevin-9-1\n아티스트: http://incompetech.com/\n\n음원설명\n\n#김블루 #배틀그라운드 #미라마 #작업장 \n\n0:00 이 사건의 발달\n0:24 (첫판)단속 나왔습니다\n1:24 어우 언어가 그새 늘었어 소통이 다 돼\n1:55 (두번째판)미라마가 노잼인 이유\n2:43 의적 김블루이올시다\n3:39 아직 3발남았다\n4:57 운영자님 단체신고 만들어주세요\n5:23 (세번째판)여기서 장사하시면 안돼요 \n6:30 (네번째판)Q.어떻게 오셨어요  A.자전거 타고요\n7:53 캡틴아메리카와도 안돼 이건",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/xNmr7N61bJc/default.jpg",
+            "url": "https://i.ytimg.com/vi/dr62P7nCkXE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/xNmr7N61bJc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/dr62P7nCkXE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/xNmr7N61bJc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/dr62P7nCkXE/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/xNmr7N61bJc/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/dr62P7nCkXE/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/xNmr7N61bJc/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/dr62P7nCkXE/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Today on the Korean Server",
+        "channelTitle": "악동 김블루",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-03-23T20:55:13Z"
+        "publishTime": "2023-04-13T09:07:52Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "IaffgqTbf4fTlPYoNS4GRVDADlc",
+      "etag": "5XaKYlGR74DjlYDbYj7_FlQ2M3Y",
       "id": {
         "kind": "youtube#video",
-        "videoId": "K7qg5sRzdwg"
+        "videoId": "fwEfLFIzi0A"
       },
       "snippet": {
-        "publishedAt": "2023-03-21T20:23:40Z",
-        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
-        "title": "T1 Faker's Yone vs Chovy's Aurelion Sol! - T1 Faker KR Solo Q Highlights",
-        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "publishedAt": "2023-02-27T10:31:14Z",
+        "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
+        "title": "업데이트된 우주 지렁이(?) 해봤습니다 페이커의 아우렐리온 솔 [Faker Stream Highlight]",
+        "description": "▶페이커 방송국 바로가기 https://bj.afreecatv.com/leesh2148\n\n--------------------------------------------------\nhttps://bj.afreecatv.com/kcphy0909rk 제우스\nhttps://bj.afreecatv.com/ansguswns519 오너\nhttps://bj.afreecatv.com/leesh2148 페이커\nhttps://bj.afreecatv.com/rkalalsgud 구마유시\nhttps://bj.afreecatv.com/fbalstjr1234 케리아\n\n▶️12% OFF only for T1! Enter your favorite T1 player's name for coupon codes!\nSteelSeries Official Site : https://tiny.one/t1steelseries\nDiscount code : \nFAKER \nKERIA \nONER \nZEUS \nGUMAYUSI \n\n▶️OP.GG Desktop App : https://bit.ly/3oddVnc\n\n▶️Subscribe and support us:\nhttps://www.youtube.com/c/SKTT1Faker_official/?sub_confirmation=1\n\n▶️Join T1 Membership:\nhttps://t1.fan\n\nFollow T1 pages:\n▶️Official Website : https://t1.gg\n▶️Official Twitter : https://twitter.com/T1LoL\n▶️Official Facebook : https://www.facebook.com/T1LoL\n▶️Official Youtube : https://www.youtube.com/user/SKTTeam1st\n▶️Official Instagram : https://www.instagram.com/T1LoL\n▶️Official Weibo: http://www.weibo.com/SKTT1LOL\n▶️Official Shop : https://t1.gg/shop\n\n#T1 #페이커 #아우렐리온솔",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/K7qg5sRzdwg/default.jpg",
+            "url": "https://i.ytimg.com/vi/fwEfLFIzi0A/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/K7qg5sRzdwg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/fwEfLFIzi0A/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/K7qg5sRzdwg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/fwEfLFIzi0A/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/K7qg5sRzdwg/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/fwEfLFIzi0A/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/K7qg5sRzdwg/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/fwEfLFIzi0A/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Today on the Korean Server",
+        "channelTitle": "T1 Faker",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-03-21T20:23:40Z"
+        "publishTime": "2023-02-27T10:31:14Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "WJFs-2QCp9mJHNrQhaxZVYv8Q9s",
+      "etag": "W_0RJZGnTfXmlOnNmoO2P4l_B-0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "m8AhzGfyuXA"
+        "videoId": "4OHeyI39RnM"
       },
       "snippet": {
-        "publishedAt": "2023-04-12T05:41:43Z",
-        "channelId": "UCfJ9Iwih_Il_lxb_uIOh6zw",
-        "title": "PTSD 오게 만드는 천상계 역대급 킬각 | 롤읽남 롤 매드무비",
-        "description": "이게 폭딜이지\n캬\n\n본 채널의 모든 영상은 직접 관전을 통해 녹화하고 있으며 모든 플레이 영상의 저작권은 라이엇 게임즈에 있으나 이를 녹화, 편집하여 유튜브에 업로드 하는 것은 약관에 따라 공식적으로 2차 저작물로 인정되어 저작권법의 보호를 받습니다.\n따라서 허가없이 본 채널의 영상을 불법 복제하여 재편집 하는 등의 행위는 절대 금지합니다.\n\nAll videos on this channel are recorded in spectator mode, and the copyright to all gameplay recordings is reserved to Riot Games®. However, according to the Terms of Service, recording and editing of gameplay are officially accepted as derivative work and thereby protected by copyright.\nTherefore, please refrain from any action in violation of copyright such as illegally downloading and re-editing the video to be distributed without permission.\n\n#롤​ #리그오브레전드​ #매드무비\n\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n▶▶▶▶▶▶▶ 트랙 리스트 ◀◀◀◀◀◀◀\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nTrack: Koven x ROY KNOX - About Me [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch: https://www.youtube.com/watch?v=t2Ti8d992RM\nFree Download / Stream: http://ncs.io/AboutMe\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nTrack: Unknown Brain - Say Goodbye (ft. Marvin Divine) [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch: https://www.youtube.com/watch?v=rdD-DMTWqU4\nFree Download / Stream: http://ncs.io/SayGoodbye\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nTrack:  3rd Prototype - After the Storm [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch: https://www.youtube.com/watch?v=s-ZUU_cE_AQ\nFree Download / Stream: http://ncs.io/AftertheStorm\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nTrack: Slashtaq & Wanden - Full Speed Ahead [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch: https://www.youtube.com/watch?v=USBIGzkFI-Q\nFree Download / Stream: https://ncs.io/FullSpeedAhead\n\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n▶▶ 제보 - lolnamsubmit@naver.com ◀◀\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n- 슈퍼플레이 (다이아몬드 이상)\n- 웃긴 장면 (티어 제한 없음)\n\n하이라이트 부분을 녹화해서 보내주세요\n녹화 프로그램 자유, 핸드폰으로 촬영해서 보내주셔도 됩니다\n매드무비 채택 여부는 따로 알려드리지 않으니 업로드 영상을 참고해주세요!\n\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n▶▶ Send me your clip - Email : lolnamsubmit@naver.com ◀◀\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n- Outplay (Diamond, Master, Grandmaster, Challenger, Pro player)\n- Funny Moment (Iron, Bronze, Silver)",
+        "publishedAt": "2023-02-06T05:25:46Z",
+        "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
+        "title": "이 바텀 조합 살벌한데..? 페이커의 딩거 서폿! (feat.구마유시) [Faker Stream Highlight]",
+        "description": "▶페이커 방송국 바로가기 https://bj.afreecatv.com/leesh2148\n\n--------------------------------------------------\nhttps://bj.afreecatv.com/kcphy0909rk 제우스\nhttps://bj.afreecatv.com/ansguswns519 오너\nhttps://bj.afreecatv.com/leesh2148 페이커\nhttps://bj.afreecatv.com/rkalalsgud 구마유시\nhttps://bj.afreecatv.com/fbalstjr1234 케리아\n\n▶️12% OFF only for T1! Enter your favorite T1 player's name for coupon codes!\nSteelSeries Official Site : https://tiny.one/t1steelseries\nDiscount code : \nFAKER \nKERIA \nONER \nZEUS \nGUMAYUSI \n\n▶️OP.GG Desktop App : https://bit.ly/3oddVnc\n\n▶️Subscribe and support us:\nhttps://www.youtube.com/c/SKTT1Faker_official/?sub_confirmation=1\n\n▶️Join T1 Membership:\nhttps://t1.fan\n\nFollow T1 pages:\n▶️Official Website : https://t1.gg\n▶️Official Twitter : https://twitter.com/T1LoL\n▶️Official Facebook : https://www.facebook.com/T1LoL\n▶️Official Youtube : https://www.youtube.com/user/SKTTeam1st\n▶️Official Instagram : https://www.instagram.com/T1LoL\n▶️Official Weibo: http://www.weibo.com/SKTT1LOL\n▶️Official Shop : https://t1.gg/shop\n\n#T1 #페이커 #하이머딩거 #아지르",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/m8AhzGfyuXA/default.jpg",
+            "url": "https://i.ytimg.com/vi/4OHeyI39RnM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/m8AhzGfyuXA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4OHeyI39RnM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/m8AhzGfyuXA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4OHeyI39RnM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/m8AhzGfyuXA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/4OHeyI39RnM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/m8AhzGfyuXA/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4OHeyI39RnM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "롤읽남 LOLNAM",
+        "channelTitle": "T1 Faker",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-12T05:41:43Z"
+        "publishTime": "2023-02-06T05:25:46Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "WVbkWSQEqV7vyQFK6j4PI0m2Vag",
+      "etag": "G1I98ii79JmoLqGMUtPIrIcRRHE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "eDoEl3mpq1o"
+        "videoId": "XKtTSRPvlmM"
       },
       "snippet": {
-        "publishedAt": "2023-04-08T12:58:03Z",
-        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
-        "title": "And The Team That Will Face T1 in the Finals Is...- GEN vs KT - LCK Spring 2023 Playoffs Highlights",
-        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "publishedAt": "2022-02-16T02:29:03Z",
+        "channelId": "UCJprx3bX49vNl6Bcw01Cwfg",
+        "title": "꼬일대로 꼬인 T1식 족보 [T1 Stream Highlight]",
+        "description": "▶️T1 팬들을 위한 스틸시리즈의 쿠폰 선물! 응원하는 선수의 이름을 코드로 입력하면 12% 할인 혜택을 드려요! \n스틸시리즈 웹사이트 : https://tiny.one/t1steelseries\n할인 코드: \nFAKER \nKERIA \nONER \nZEUS \nGUMAYUSI\n\n▶️OP.GG Desktop App : https://opgg.at/t1 \n\n▶️Subscribe and support us:\nhttps://www.youtube.com/user/SKTTeam1st/?sub_confirmation=1\n\n▶️Join T1 Membership:\nhttps://www.youtube.com/channel/UCJprx3bX49vNl6Bcw01Cwfg/join\n\nFollow T1 pages:\n▶️Official Website : https://t1.gg\n▶️Official Twitter : https://twitter.com/T1LoL\n▶️Official Facebook : https://www.facebook.com/T1LoL\n▶️Official Youtube : https://www.youtube.com/user/SKTTeam1st\n▶️Official Instagram : https://www.instagram.com/T1LoL\n▶️Official Weibo: http://www.weibo.com/SKTT1LOL\n▶️Official Shop : https://t1.gg/shop\n\n#T1 #오너제우스듀오",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/eDoEl3mpq1o/default.jpg",
+            "url": "https://i.ytimg.com/vi/XKtTSRPvlmM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/eDoEl3mpq1o/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XKtTSRPvlmM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/eDoEl3mpq1o/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XKtTSRPvlmM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/eDoEl3mpq1o/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/XKtTSRPvlmM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/eDoEl3mpq1o/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XKtTSRPvlmM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Today on the Korean Server",
+        "channelTitle": "T1",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-08T12:58:03Z"
+        "publishTime": "2022-02-16T02:29:03Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "9Ft6D54xThccj7OJdH5fhl8IoJ4",
+      "etag": "RfWMu0h1FBO3ZmBojiR-sbniBLs",
       "id": {
         "kind": "youtube#video",
-        "videoId": "skK90sSt7hk"
+        "videoId": "qrD8LJuXuyE"
       },
       "snippet": {
-        "publishedAt": "2023-03-22T22:17:30Z",
-        "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
-        "title": "\"3234\" - Ambition Clips",
-        "description": "~~Links~~\nDiscord - https://discord.gg/DrdbjxJ\nTwitch - https://www.twitch.tv/prohudlive\nFacebook - https://www.facebook.com/Today-on-the-Korean-Server-673873236103396/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "publishedAt": "2023-01-25T08:34:58Z",
+        "channelId": "UCWR9bScKbu_47e0uRSJV9cA",
+        "title": "솔랭에서는 얼마나 셀까..? 자연재해급 구케 듀오 [Gumayusi Stream Highlight]",
+        "description": "▶구마유시 방송국 바로가기 https://bj.afreecatv.com/rkalalsgud\n--------------------------------------------------\nhttps://bj.afreecatv.com/kcphy0909rk 제우스\nhttps://bj.afreecatv.com/ansguswns519 오너\nhttps://bj.afreecatv.com/leesh2148 페이커\nhttps://bj.afreecatv.com/rkalalsgud 구마유시\nhttps://bj.afreecatv.com/fbalstjr1234 케리아\n\n▶️12% OFF only for T1! Enter your favorite T1 player's name for coupon codes!\nSteelSeries Official Site : https://tiny.one/t1steelseries\nDiscount code : \nFAKER \nKERIA \nONER \nZEUS \nGUMAYUSI \n\n\n▶️OP.GG Desktop App : https://opgg.at/t1 \n\n▶️Subscribe and support us:\nhttps://www.youtube.com/user/SKTTeam1st/?sub_confirmation=1\n\n▶️Join T1 Membership:\nhttps://www.youtube.com/channel/UCJprx3bX49vNl6Bcw01Cwfg/join\n\nFollow T1 pages:\n▶️Official Website : https://t1.gg\n▶️Official Twitter : https://twitter.com/T1LoL\n▶️Official Facebook : https://www.facebook.com/T1LoL\n▶️Official Youtube : https://www.youtube.com/user/SKTTeam1st\n▶️Official Instagram : https://www.instagram.com/T1LoL\n▶️Official Weibo: http://www.weibo.com/SKTT1LOL\n▶️Official Shop : https://t1.gg/shop\n\n#T1 #구마유시",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/skK90sSt7hk/default.jpg",
+            "url": "https://i.ytimg.com/vi/qrD8LJuXuyE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/skK90sSt7hk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qrD8LJuXuyE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/skK90sSt7hk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qrD8LJuXuyE/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/skK90sSt7hk/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/qrD8LJuXuyE/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/skK90sSt7hk/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qrD8LJuXuyE/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Today on the Korean Server",
+        "channelTitle": "T1 Gumayusi",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-03-22T22:17:30Z"
+        "publishTime": "2023-01-25T08:34:58Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "oevNBbj1Gs6PIBbBwZz8-VMB_OA",
+      "etag": "ZNmS05jzKDs_hi2K_tt5RO9Ay2Y",
       "id": {
         "kind": "youtube#video",
-        "videoId": "OS2z1Rwo5Po"
+        "videoId": "CBXL4LYqNDc"
       },
       "snippet": {
-        "publishedAt": "2023-04-11T21:02:33Z",
-        "channelId": "UCCgDLmcdCZVDduZUZ-9W04A",
-        "title": "How this 2/0/7 Lux Support has Full Build at 22 Minutes!",
-        "description": "If you have encountered a bug and you want me to make a video about it, send me an email to Hunefer@googlemail.com or join my Discord: https://discord.gg/eYr6cxCcgK\n\nSong title: [ To Battle! ]\nArtists: [ Riot Games ]\nCourtesy of Riot Games [https://www.leagueoflegends.com/en-au/news/community/riot-music-creator-safe-guidelines/]\n\nI post short versions of my videos on TikTok and Instagram:\nhttps://www.tiktok.com/@hextechlab\nhttps://www.instagram.com/hextechlab/?hl=en\n\nI appreciate every thumbs up and would love it if you’d consider subscribing to the channel!\nhttps://www.youtube.com/channel/UCCgDLmcdCZVDduZUZ-9W04A?sub_confirmation=1 \n\nThank you so much for visiting \n\n********************\n Welcome to the Hextech Lab!\n\nIf you’re interested in learning about strategies, tactics, or glitches in League of Legends, you’re in the right place! \nHere I document bugs in the game. Some of them are useful, some aren’t. Either way, you can learn about them here! I also test out new champions and experiment with interactions between characters and their abilities.\n \nIf you have a question about any of the videos or want to see an experiment covered, leave a comment! I regularly test out interesting League of Legends questions and upload the results.\n\nNew videos every week!\n \nSubscribe and hit the bell so that you’re always notified when a new video comes out! \n\n********************\n\n#HextechLab #LeagueOfLegends",
+        "publishedAt": "2023-02-23T06:39:47Z",
+        "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
+        "title": "찾아서 나오면 10원에 한 대다? [Faker Stream Highlight]",
+        "description": "▶페이커 방송국 바로가기 https://bj.afreecatv.com/leesh2148\n\n--------------------------------------------------\nhttps://bj.afreecatv.com/kcphy0909rk 제우스\nhttps://bj.afreecatv.com/ansguswns519 오너\nhttps://bj.afreecatv.com/leesh2148 페이커\nhttps://bj.afreecatv.com/rkalalsgud 구마유시\nhttps://bj.afreecatv.com/fbalstjr1234 케리아\n\n▶️12% OFF only for T1! Enter your favorite T1 player's name for coupon codes!\nSteelSeries Official Site : https://tiny.one/t1steelseries\nDiscount code : \nFAKER \nKERIA \nONER \nZEUS \nGUMAYUSI \n\n▶️OP.GG Desktop App : https://bit.ly/3oddVnc\n\n▶️Subscribe and support us:\nhttps://www.youtube.com/c/SKTT1Faker_official/?sub_confirmation=1\n\n▶️Join T1 Membership:\nhttps://t1.fan\n\nFollow T1 pages:\n▶️Official Website : https://t1.gg\n▶️Official Twitter : https://twitter.com/T1LoL\n▶️Official Facebook : https://www.facebook.com/T1LoL\n▶️Official Youtube : https://www.youtube.com/user/SKTTeam1st\n▶️Official Instagram : https://www.instagram.com/T1LoL\n▶️Official Weibo: http://www.weibo.com/SKTT1LOL\n▶️Official Shop : https://t1.gg/shop\n\n#T1 #페이커 #신드라",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/OS2z1Rwo5Po/default.jpg",
+            "url": "https://i.ytimg.com/vi/CBXL4LYqNDc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/OS2z1Rwo5Po/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/CBXL4LYqNDc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/OS2z1Rwo5Po/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/CBXL4LYqNDc/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/OS2z1Rwo5Po/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Hextech Lab",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-04-11T21:02:33Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "ksDoE2PAZ0s7iPyAUPGVjIEJjQ0",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "ylbvIh8HGYo"
-      },
-      "snippet": {
-        "publishedAt": "2023-04-09T07:29:13Z",
-        "channelId": "UCsY94ljKzTlXNueC2m3hf-A",
-        "title": "The Power Of Triple Econ Augments (ft. Urgot 3)",
-        "description": "The Power Of Triple Econ Augments (ft. Urgot 3)\n\n00:00 - Patch 13.7\n02:19 - Augment 1 | Time and a Half (Sivir Augment) Gold Farmed: 40+\n08:59 - Augment 2 | Lategame Specialist\n14:51 - Augment 3 | Level Up!\n\nVOD link:\nhttps://youtu.be/2k6hVXaDJ94?t=33900\n\nYouTube Business Contact: BoxBoxYTBiz@gmail.com\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCsY94ljKzTlXNueC2m3hf-A/join\n\nBOXBOX SOCIAL MEDIA:\n📺Twitch: http://www.twitch.tv/boxbox\n💎2nd YouTube Channel: https://www.youtube.com/c/BoxBoxBox\n🩳 YouTube Shorts: https://www.youtube.com/c/@BoxBoxClips\n📼VODs Channel: https://www.youtube.com/@BoxBoxVoD\n🥶Facebook: https://www.facebook.com/LoLBoxbox\n🐤Twitter: https://twitter.com/BoxBox\n📷Instagram: https://instagram.com/NotBoxBox\n🎵TikTok: https://tiktok.com/@boxbox\n🤖Discord: https://discord.gg/eeHvGNMzB6\n\n📹EDITOR:\nhttps://twitter.com/ShenobiPh\n\n🎨THUMBNAIL ARTIST:\nhttps://twitter.com/PUFFB0X\n\n🧙‍♂️Channel Manager:\nhttps://twitter.com/timkiro\n\n🎼MUSIC:\nGrandia 3 Music Boss Battle V1 (A Hot Crash)\nPink Ball Activate! (Kirby Planet Robobot) - Super Smash Bros. Ultimate Soundtrack\nTitle Theme (Animal Crossing) [New Remix] - Super Smash Bros. Ultimate Soundtrack\nPopcorn Castle\nPopskyy & tiasu - Duel\nSunset Heights Super Smash Bros. Ultimate\nMidnight Maximum Tune 6 - New Generation\nBurning Away - Wangan Midnight Maximum Tune 6 OST\n\nOutro: Nightcore - Hold my wings\n\n#BoxBox #TFT #TeamfightTactics",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ylbvIh8HGYo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ylbvIh8HGYo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ylbvIh8HGYo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ylbvIh8HGYo/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/CBXL4LYqNDc/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/ylbvIh8HGYo/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/CBXL4LYqNDc/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "BoxBox",
+        "channelTitle": "T1 Faker",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-09T07:29:13Z"
+        "publishTime": "2023-02-23T06:39:47Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "0FJ9ptRUc9e3Bhsn55DhWLydPXQ",
+      "etag": "fma1cklphJ4V5gYMrVLydEkQjwo",
       "id": {
         "kind": "youtube#video",
-        "videoId": "nkh9VGCY8as"
+        "videoId": "SnlufQATbXo"
       },
       "snippet": {
-        "publishedAt": "2023-04-12T01:37:35Z",
-        "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-        "title": "I’m Dreading this Review – RTX 4070",
-        "description": "Save 15% with code LinusTechTips at http://vessi.com/LinusTechTips\n\nCheck out VideoCom for free at https://lmg.gg/VideoCom and use code LINUS for 50% off any paid subscription!\n\nNvidia's RTX 4070 is a complicated card.. on one hand it is the best value we've seen in years, but on the other everyone is still mad.\n\nDiscuss on the forum: https://linustechtips.com/topic/1500288-i%E2%80%99m-dreading-this-review-%E2%80%93-rtx-4070/\n\n► GET MERCH: https://lttstore.com\n► LTX 2023 TICKETS AVAILABLE NOW: https://lmg.gg/ltx23\n► GET EXCLUSIVE CONTENT ON FLOATPLANE: https://lmg.gg/lttfloatplane\n► SPONSORS, AFFILIATES, AND PARTNERS: https://lmg.gg/partners\n► OUR WAN PODCAST GEAR: https://lmg.gg/wanset\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTikTok: https://www.tiktok.com/@linustech\nTwitch: https://www.twitch.tv/linustech\n\nMUSIC CREDIT\n---------------------------------------------------\nIntro: Laszlo - Supernova\nVideo Link: https://www.youtube.com/watch?v=PKfxmFU3lWY\niTunes Download Link: https://itunes.apple.com/us/album/supernova/id936805712\nArtist Link: https://soundcloud.com/laszlomusic\n\nOutro: Approaching Nirvana - Sugar High\nVideo Link: https://www.youtube.com/watch?v=ngsGBSCDwcI\nListen on Spotify: http://spoti.fi/UxWkUw\nArtist Link: http://www.youtube.com/approachingnirvana\n\nIntro animation by MBarek Abdelwassaa https://www.instagram.com/mbarek_abdel/\nMonitor And Keyboard by vadimmihalkevich / CC BY 4.0  https://geni.us/PgGWp\nMechanical RGB Keyboard by BigBrotherECE / CC BY 4.0 https://geni.us/mj6pHk4\nMouse Gamer free Model By Oscar Creativo / CC BY 4.0 https://geni.us/Ps3XfE\n\nCHAPTERS\n---------------------------------------------------\n0:00 - Intro\n0:48 - VideoCom!\n1:00 - Specs\n2:00 - Gaming Performance\n4:00 - Productivity\n5:53 - So why aren't we stoked?\n6:44 - Efficency, Overclocking\n8:18 - DLSS3\n9:57 - Non-gaming Nice Things\n10:46 - Vessi!\n11:30 - Outro",
+        "publishedAt": "2023-03-23T11:09:41Z",
+        "channelId": "UCYDg0_mq6Ik8V2nF72mfDPw",
+        "title": "스프링에 이어 솔랭까지? 그만 잘해 류민석! [Keria Stream Highlight]",
+        "description": "▶케리아 방송국 바로가기 https://bj.afreecatv.com/fbalstjr1234\n--------------------------------------------------\nhttps://bj.afreecatv.com/kcphy0909rk 제우스\nhttps://bj.afreecatv.com/ansguswns519 오너\nhttps://bj.afreecatv.com/leesh2148 페이커\nhttps://bj.afreecatv.com/rkalalsgud 구마유시\nhttps://bj.afreecatv.com/fbalstjr1234 케리아\n\n▶12% OFF only for T1! Enter your favorite T1 player's name for coupon codes!\nSteelSeries Official Site : https://tiny.one/t1steelseries\nDiscount code : \nFAKER \nKERIA \nONER \nZEUS \nGUMAYUSI\n\n▶️Subscribe and support us:\nhttps://www.youtube.com/user/SKTTeam1st/?sub_confirmation=1\n\n▶️Join T1 Membership:\nhttps://t1.fan\n\nFollow T1 pages:\n▶️Official Website : https://t1.gg\n▶️Official Twitter : https://twitter.com/T1LoL\n▶️Official Facebook : https://www.facebook.com/T1LoL\n▶️Official Youtube : https://www.youtube.com/user/SKTTeam1st\n▶️Official Instagram : https://www.instagram.com/T1LoL\n▶️Official Weibo: http://www.weibo.com/SKTT1LOL\n▶️Official Shop : https://t1.gg/shop\n\n#T1 #케리아 #파이크",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/nkh9VGCY8as/default.jpg",
+            "url": "https://i.ytimg.com/vi/SnlufQATbXo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/nkh9VGCY8as/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/SnlufQATbXo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/nkh9VGCY8as/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/SnlufQATbXo/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/nkh9VGCY8as/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/SnlufQATbXo/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/nkh9VGCY8as/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/SnlufQATbXo/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Linus Tech Tips",
+        "channelTitle": "T1 Keria",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-12T01:37:35Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "41uw_c8LIGit3tJ6i1WK_L3sVzc",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "qzIfQ5_gYzc"
-      },
-      "snippet": {
-        "publishedAt": "2023-04-12T12:52:33Z",
-        "channelId": "UCMUnInmOkrWN4gof9KlhNmQ",
-        "title": "真正的人生攻略，這一期也許你會看了又看 | 老高與小茉 Mr & Mrs Gao",
-        "description": "【加入會員按鈕】https://www.youtube.com/channel/UCMUnInmOkrWN4gof9KlhNmQ/join\n【訂閱頻道按鈕】https://goo.gl/VhzZeS\n------------------------------------------------\n相關鏈接：\n\n超出你想象的深海世界\nhttps://www.youtube.com/watch?v=dNmwPWRdv_0\n\n【神作】四十分鐘講完三體\nhttps://www.youtube.com/watch?v=2vowHo2y-hI\n\n目前第二長的一期，多重人格分裂\nhttps://www.youtube.com/watch?v=QAGDGja7kbs\n\n人為什麼是人，人類最不可思議的六個特征\nhttps://www.youtube.com/watch?v=EiWuajug1W4\n\n【震撼】這是一部解開所有宇宙之謎的影片\nhttps://www.youtube.com/watch?v=3QS5hyXpNyw\n\n【震撼】這是一部你明天還會再看一遍的影片\nhttps://www.youtube.com/watch?v=odc0ajxCq2c\n\n南極和北極，地球上最不可思議的兩個地方\nhttps://www.youtube.com/watch?v=jSSIeOlIqu0\n\n千萬不要去！世界十大人類禁地\nhttps://www.youtube.com/watch?v=6SwJpgNLvTk\n\n目前信息量最大的一期，重力\nhttps://www.youtube.com/watch?v=-TDVKQjmf7c\n\n人類的隱藏能力，從氣功到超能力還有另一個世界的存在\nhttps://www.youtube.com/watch?v=3Okf8nOIVLY\n\n超出你想象的地球故事\nhttps://www.youtube.com/watch?v=5AseSLCG7wI\n\n目前最長的一期，只有五歲抬頭才能看懂的天能（信条）\nhttps://www.youtube.com/watch?v=UiyWuEwxCNQ\n\n【震撼】2045年，人類究竟是滅絕還是成神\nhttps://www.youtube.com/watch?v=WY4XLDBDyuk\n\n【震撼】智商200也無法解答，宇宙最大的謎團，時間\nhttps://www.youtube.com/watch?v=6SkbNlWMG5w\n\n現代技術也無法再現的七個奇跡\nhttps://www.youtube.com/watch?v=KtDGWBqCmtk\n\n【震撼】海奧華預言，人類起源，耶穌是誰，金字塔之謎，你想知道的答案這裡都有\nhttps://www.youtube.com/watch?v=1rUWY2z4wUk\n\n【神作】三十六分鐘完全解説這部完美閉合的漫畫\nhttps://www.youtube.com/watch?v=ZN4yFKJuS4Y\n\n前往地球中心的旅行，超出你想象的地下世界\nhttps://www.youtube.com/watch?v=lRVSC97q8ew\n\n人類不能再次登上月球的真正原因真是難以置信\nhttps://www.youtube.com/watch?v=2vzwtqhhJv8\n\n“他們”究竟是誰？比金字塔還誇張的遠古文明\nhttps://www.youtube.com/watch?v=vA7IJRaW0Eo\n\n最神奇的星球，地球以及人類存在的真正原因\nhttps://www.youtube.com/watch?v=BLpv9fCZqcs\n\n神作！星際效應，用最簡單的方式告訴你什麽是五維時空\nhttps://www.youtube.com/watch?v=KefYmjM0E7g\n\n天堂的證明，一個你這輩子都看不到的世界\nhttps://www.youtube.com/watch?v=L8SZQPyB1c8\n\n人類不能知道的秘密，人族的故事\nhttps://www.youtube.com/watch?v=JVOzntXOGRc\n\n可怕的巨大史前生物，我們該慶幸它們已經滅絕了\nhttps://www.youtube.com/watch?v=BXybSLUlFvM\n\n人類消失一萬年後，一切都不見了，只有“它”還在\nhttps://www.youtube.com/watch?v=EW77R_D-XCw\n\n目前介紹過的最厲害的一位，此人兩歲就能抬頭\nhttps://www.youtube.com/watch?v=t_WGhKQ7xqI\n\n一萬年後的世界不會比現在更先進的真正原因\nhttps://www.youtube.com/watch?v=sWY1PtudTEA\n\n目前最搞笑的一期，我們本來都是神但由於選擇了美貌而變成了人\nhttps://www.youtube.com/watch?v=p25SV0WQWjA\n\n宇宙有多大，人類最遠可以到達宇宙的什麽地方\nhttps://www.youtube.com/watch?v=gH_NIUqOJos\n\n它的下面埋藏著關於世界末日的重要信息\nhttps://www.youtube.com/watch?v=Q0pSMTLXvjo\n\n目前最細思極恐的一期，二十五號宇宙\nhttps://www.youtube.com/watch?v=htz2xCJb3Lc\n\n【雖然被警告不要說】但是我還是決定公開這一期\nhttps://www.youtube.com/watch?v=QMsbQ97Ah_M\n\n人類的極限，壽命的極限是多少，可以多久不吃飯不睡覺\nhttps://www.youtube.com/watch?v=VCIHVq2GISw\n\n驚人證據揭示地下世界的存在，他們究竟是誰\nhttps://www.youtube.com/watch?v=0AuaFv9pUYE\n\n突然消失的百慕大三角\nhttps://www.youtube.com/watch?v=kb3ZMhR66fY\n\n【震撼】看完這期你就無敵了，史上最強戰術，不戰而勝的奧義，孫子兵法\nhttps://www.youtube.com/watch?v=4CvVL-rSX8E\n\n1萬2千年前的這個裝置究竟是用來做什麼的\nhttps://www.youtube.com/watch?v=NFH7IErIm3k\n\n【月球第三部】人類無法再次登月的另一種可能\nhttps://www.youtube.com/watch?v=Udvl_VJoM94\n\n【震撼】亞特蘭蒂斯真的找到了，神，真的存在過\nhttps://www.youtube.com/watch?v=QbcKVbL3VOQ\n\n【摩羯座的人注意了】神就來自你們的守護星\nhttps://www.youtube.com/watch?v=EkELAx2Uk1w\n\n過去可以被改變的真正原因，被討厭的勇氣\nhttps://www.youtube.com/watch?v=5cZxZCbcOQw\n\n【目前最長影片】人類不能知道的，完全另一個版本的世界的真相\nhttps://www.youtube.com/watch?v=A7h2clFxyj0\n\n【震撼】進化，從1859到2020\nhttps://www.youtube.com/watch?v=yNFgOL-7nOw\n\n地球上最常見卻最神奇的東西，水\nhttps://www.youtube.com/watch?v=7q88m5MQRhE\n\n超越認知的印度\nhttps://www.youtube.com/watch?v=0cXTyTmDRUI\n\n【完美犯罪】又一個超超超高智商的男人\nhttps://www.youtube.com/watch?v=SSzJdSsLneI\n\n地球上智商最高的九種動物，第一名就快變成人了\nhttps://www.youtube.com/watch?v=mjk1Huc_FoY\n\n碰到就玩完了，世界上最可怕的十大海洋生物\nhttps://www.youtube.com/watch?v=ZYjCi4rpAiQ\n\n雪山上發生的最不可思議的事\nhttps://www.youtube.com/watch?v=8Y-l9WaOd_w\n\n【射手座的人注意了】你們的守護星太危險，風速每秒三百公里，木星\nhttps://www.youtube.com/watch?v=dr9ISxjOO00\n\n【講到流淚】二十分鐘講完第一次世界大戰\nhttps://www.youtube.com/watch?v=G5y85I52HRg\n\n你所不了解的天空的世界\nhttps://www.youtube.com/watch?v=x1QyVwFRrIg\n\n【震撼】地球歷史的最大謎團，大洪水\nhttps://www.youtube.com/watch?v=w69h0zCso-o\n\nKFK預言，目前爲止最可信的一個未來人\nhttps://www.youtube.com/watch?v=ZTxc1YY64cM\n\n【震撼】諾亞方舟，不是神話而是預言，漢字中隱藏的秘密\nhttps://www.youtube.com/watch?v=czNMh9kVhIE\n\n【不好意思，今天的標題可能嚇到各位，但我必須說】我們之間其實沒有任何關係\nhttps://www.youtube.com/watch?v=nhnrfTb8xzA\n\n人類瘟疫史，存活下來的唯一方法\nhttps://www.youtube.com/watch?v=K4t6nF8dDHQ\n\n世界是虛擬的但有一個東西是真實的\nhttps://www.youtube.com/watch?v=B-I2guiXzRA\n\n【費米悖論】人類至今無法發現外星人的14種可能，越往後可能性越大\nhttps://www.youtube.com/watch?v=N4xXGIrzKJs\n\n【震撼】一切都不是巧合，2020真正的預言\nhttps://www.youtube.com/watch?v=wGaTEf0e67U\n\n【震撼】史上最深奧的話題，意識\nhttps://www.youtube.com/watch?v=wraBVnAfunc\n\n不可思议的前世記憶，可能你也有\nhttps://www.youtube.com/watch?v=v3kfH0a_dDY\n\n病毒，進化\nhttps://www.youtube.com/watch?v=_oBVDBVTKbU\n\n目前最快的影片，速度的世界\nhttps://www.youtube.com/watch?v=yf7S1s37des\n\n怕海的人不要看，真實的美人魚\nhttps://www.youtube.com/watch?v=3cHZfgSqPa4\n\n七個可能毀滅世界的科學實驗，其中三個還在進行中\nhttps://www.youtube.com/watch?v=ElqnKNkiyHA\n\n你的生日數字相加等於幾？如果等於369，那你註定不平凡啊\nhttps://www.youtube.com/watch?v=KQv0lEaDGco\n\n看得見摸得著卻無法解釋，世界上最大的謎團，第一集\nhttps://www.youtube.com/watch?v=Ttus8XGK6Xw\n\n十年內將會消失的職業，你如果正在做這些工作最好盡快轉行\nhttps://www.youtube.com/watch?v=Mshz9DxQLbE\n\n世界上最貴的東西\nhttps://www.youtube.com/watch?v=2FLYgFa2ZyI\n\n------------------------------------------------\n推薦播放列表：\n\n【未來】https://goo.gl/Bq54h5\n\n【傳說】https://goo.gl/CpmK2Y\n\n【心理測試】https://goo.gl/wf5dp5\n\n【奇趣】https://goo.gl/Tbpiuj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/qzIfQ5_gYzc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/qzIfQ5_gYzc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/qzIfQ5_gYzc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/qzIfQ5_gYzc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/qzIfQ5_gYzc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "老高與小茉 Mr & Mrs Gao",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-04-12T12:52:33Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "Px8J1mM4cntdZ4u2RlOeSQmSm4E",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "k4tmKcoCFlM"
-      },
-      "snippet": {
-        "publishedAt": "2023-04-12T04:45:03Z",
-        "channelId": "UC8YW6FO4bJzh8IKJl3PtZqw",
-        "title": "DỊ NHÂN THEBAUSFFS VÀ LỐI CHƠI IRELIA FULL AP FEED TO WIN ĐI TOP GÂY SÁT THƯƠNG SIÊU ẢO",
-        "description": "DỊ NHÂN THEBAUSFFS VÀ LỐI CHƠI IRELIA FULL AP FEED TO WIN ĐI TOP GÂY SÁT THƯƠNG SIÊU ẢO\n\nChúc các bạn xem vui vẻ\n► Lịch Live:\n*22:30-23:30 hàng ngày trên Youtube\n*23:30-02:00 hàng ngày tại: https://gglive.vn/live/van-tung/204575\n__________________________________________________________________\n►Gia nhập Hạm đội Toxic tại: https://www.facebook.com/groups/thuyentruongvantung\n►Facebook cá nhân: https://www.facebook.com/le.vantung.777\n►Fanpage: https://www.facebook.com/BLVVanTung.Box\n►Hãy like và subscribe (ấn chuông theo dõi) để nhận thông báo mỗi khi có video mới của Văn Tùng nhé!! https://bit.ly/2LuLBJH\n\n➥ Box Studio \n» Liên hệ công việc: booking@box.studio\n» Web: https://www.box.studio/\n» Hotline: 0962012219",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/k4tmKcoCFlM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/k4tmKcoCFlM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/k4tmKcoCFlM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/k4tmKcoCFlM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/k4tmKcoCFlM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Văn Tùng",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-04-12T04:45:03Z"
+        "publishTime": "2023-03-23T11:09:41Z"
       }
     }
   ]

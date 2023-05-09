@@ -4,7 +4,7 @@ import Logo from "../components/Logo";
 
 export default function SearchHeader() {
   return (
-    <header className="w-full flex p-4 text-lg fixed bg-black z-10">
+    <header className="fixed w-full max-w-screen-xl flex p-4 text-lg bg-black z-10">
       <Logo />
       <SearchBar />
     </header>
