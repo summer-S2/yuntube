@@ -13,18 +13,20 @@ export default function Description({ description, id }) {
   }, [id]);
 
   return (
-    <pre
-      className={`relative text-sm rounded-xl p-4 pb-6 bg-[#282828] whitespace-pre-wrap ${
-        more ? "" : "overflow-hidden h-[100px]"
-      }`}
-    >
-      {description}
+    <div className="bg-[#282828] rounded-xl ">
+      <pre
+        className={`relative text-sm p-4 pb-6 whitespace-pre-wrap transition-all duration-1000 ${
+          more ? "mb-5" : "overflow-hidden h-[100px] line-clamp-1"
+        }`}
+      >
+        {description}
+      </pre>
       <button
-        className="absolute w-full bottom-0 rounded-b-xl left-0 bg-[#282828] hover:bg-[#333]"
+        className={`w-full rounded-b-xl py-1 bg-[#282828] hover:bg-[#3a3a3a] transition-all`}
         onClick={handleClick}
       >
         {more ? "간략히" : "더보기"}
       </button>
-    </pre>
+    </div>
   );
 }
